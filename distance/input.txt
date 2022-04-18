@@ -1,0 +1,2450 @@
+New York,Boston,215
+New York,Los Angeles,2789
+New York,Dallas,1554
+New York,Seattle,2852
+New York,Chicago,796
+New York,Houston,1628
+New York,Phoenix,2406
+New York,San Antonio,1822
+New York,Philadelphia,97
+New York,San Diego,2759
+New York,Austin,1749
+New York,Jacksonville,932
+New York,Charlotte,625
+New York,Columbus,536
+New York,Indianapolis,710
+New York,San Francisco,2902
+New York,Denver,1778
+New York,Washington,229
+New York,Nashville,886
+New York,Oklahoma City,1448
+New York,Las Vegas,2529
+New York,Portland,2895
+New York,Detroit,632
+New York,Memphis,1096
+New York,Louisville,745
+New York,Milwaukee,880
+New York,Baltimore,191
+New York,Albuquerque,1993
+New York,Tucson,2398
+New York,Atlanta,864
+New York,Sacramento,2816
+New York,Kansas City,1192
+New York,Colorado Springs,1777
+New York,Raleigh,511
+New York,Miami,1276
+New York,Omaha,1242
+New York,Long Beach,2802
+New York,Virginia Beach,363
+New York,Oakland,2897
+New York,Minneapolis,1202
+New York,Tampa,1136
+New York,Tulsa,1343
+New York,Buffalo,372
+New York,Cleveland,469
+New York,Wichita,1385
+New York,New Orleans,1304
+New York,Myrtle Beach,661
+New York,Charleston,758
+New York,Des Moines,1106
+Boston,New York,215
+Boston,Los Angeles,2982
+Boston,Dallas,1767
+Boston,Seattle,3056
+Boston,Chicago,982
+Boston,Houston,1846
+Boston,Phoenix,2647
+Boston,San Antonio,2042
+Boston,Philadelphia,308
+Boston,San Diego,3000
+Boston,Austin,1969
+Boston,Jacksonville,1153
+Boston,Charlotte,847
+Boston,Columbus,775
+Boston,Indianapolis,949
+Boston,San Francisco,3094
+Boston,Denver,1971
+Boston,Washington,443
+Boston,Nashville,1105
+Boston,Oklahoma City,1689
+Boston,Las Vegas,2713
+Boston,Portland,3086
+Boston,Detroit,706
+Boston,Memphis,1315
+Boston,Louisville,981
+Boston,Milwaukee,1073
+Boston,Baltimore,404
+Boston,Albuquerque,2233
+Boston,Tucson,2639
+Boston,Atlanta,1077
+Boston,Sacramento,3008
+Boston,Kansas City,1430
+Boston,Colorado Springs,2016
+Boston,Raleigh,725
+Boston,Miami,1499
+Boston,Omaha,1434
+Boston,Long Beach,2997
+Boston,Virginia Beach,577
+Boston,Oakland,3089
+Boston,Minneapolis,1398
+Boston,Tampa,1350
+Boston,Tulsa,1584
+Boston,Buffalo,454
+Boston,Cleveland,639
+Boston,Wichita,1628
+Boston,New Orleans,1523
+Boston,Myrtle Beach,880
+Boston,Charleston,979
+Boston,Des Moines,1299
+Los Angeles,New York,2789
+Los Angeles,Boston,2982
+Los Angeles,Dallas,1436
+Los Angeles,Seattle,1135
+Los Angeles,Chicago,2015
+Los Angeles,Houston,1546
+Los Angeles,Phoenix,373
+Los Angeles,San Antonio,1353
+Los Angeles,Philadelphia,2741
+Los Angeles,San Diego,120
+Los Angeles,Austin,1380
+Los Angeles,Jacksonville,2415
+Los Angeles,Charlotte,2411
+Los Angeles,Columbus,2243
+Los Angeles,Indianapolis,2067
+Los Angeles,San Francisco,381
+Los Angeles,Denver,1016
+Los Angeles,Washington,2669
+Los Angeles,Nashville,2005
+Los Angeles,Oklahoma City,1329
+Los Angeles,Las Vegas,270
+Los Angeles,Portland,964
+Los Angeles,Detroit,2281
+Los Angeles,Memphis,1794
+Los Angeles,Louisville,2123
+Los Angeles,Milwaukee,2057
+Los Angeles,Baltimore,2646
+Los Angeles,Albuquerque,787
+Los Angeles,Tucson,488
+Los Angeles,Atlanta,2175
+Los Angeles,Sacramento,384
+Los Angeles,Kansas City,1618
+Los Angeles,Colorado Springs,1082
+Los Angeles,Raleigh,2547
+Los Angeles,Miami,2733
+Los Angeles,Omaha,1552
+Los Angeles,Long Beach,24
+Los Angeles,Virginia Beach,2724
+Los Angeles,Oakland,370
+Los Angeles,Minneapolis,1926
+Los Angeles,Tampa,2527
+Los Angeles,Tulsa,1434
+Los Angeles,Buffalo,2536
+Los Angeles,Cleveland,2344
+Los Angeles,Wichita,1380
+Los Angeles,New Orleans,1894
+Los Angeles,Myrtle Beach,2537
+Los Angeles,Charleston,2474
+Los Angeles,Des Moines,1683
+Dallas,New York,1554
+Dallas,Boston,1767
+Dallas,Los Angeles,1436
+Dallas,Seattle,2108
+Dallas,Chicago,967
+Dallas,Houston,239
+Dallas,Phoenix,1064
+Dallas,San Antonio,275
+Dallas,Philadelphia,1473
+Dallas,San Diego,1358
+Dallas,Austin,196
+Dallas,Jacksonville,996
+Dallas,Charlotte,1025
+Dallas,Columbus,1041
+Dallas,Indianapolis,905
+Dallas,San Francisco,1731
+Dallas,Denver,794
+Dallas,Washington,1333
+Dallas,Nashville,670
+Dallas,Oklahoma City,205
+Dallas,Las Vegas,1217
+Dallas,Portland,2034
+Dallas,Detroit,1191
+Dallas,Memphis,452
+Dallas,Louisville,842
+Dallas,Milwaukee,1002
+Dallas,Baltimore,1366
+Dallas,Albuquerque,649
+Dallas,Tucson,950
+Dallas,Atlanta,781
+Dallas,Sacramento,1726
+Dallas,Kansas City,507
+Dallas,Colorado Springs,727
+Dallas,Raleigh,1190
+Dallas,Miami,1313
+Dallas,Omaha,657
+Dallas,Long Beach,1444
+Dallas,Virginia Beach,1393
+Dallas,Oakland,1720
+Dallas,Minneapolis,942
+Dallas,Tampa,1107
+Dallas,Tulsa,257
+Dallas,Buffalo,1370
+Dallas,Cleveland,1183
+Dallas,Wichita,363
+Dallas,New Orleans,506
+Dallas,Myrtle Beach,1151
+Dallas,Charleston,1080
+Dallas,Des Moines,697
+Seattle,New York,2852
+Seattle,Boston,3056
+Seattle,Los Angeles,1135
+Seattle,Dallas,2108
+Seattle,Chicago,2064
+Seattle,Houston,2348
+Seattle,Phoenix,1421
+Seattle,San Antonio,2146
+Seattle,Philadelphia,2821
+Seattle,San Diego,1255
+Seattle,Austin,2128
+Seattle,Jacksonville,2982
+Seattle,Charlotte,2795
+Seattle,Columbus,2390
+Seattle,Indianapolis,2219
+Seattle,San Francisco,807
+Seattle,Denver,1317
+Seattle,Washington,2768
+Seattle,Nashville,2391
+Seattle,Oklahoma City,1984
+Seattle,Las Vegas,1125
+Seattle,Portland,173
+Seattle,Detroit,2353
+Seattle,Memphis,2287
+Seattle,Louisville,2330
+Seattle,Milwaukee,1992
+Seattle,Baltimore,2773
+Seattle,Albuquerque,1436
+Seattle,Tucson,1532
+Seattle,Atlanta,2637
+Seattle,Sacramento,752
+Seattle,Kansas City,1837
+Seattle,Colorado Springs,1385
+Seattle,Raleigh,2881
+Seattle,Miami,3298
+Seattle,Omaha,1655
+Seattle,Long Beach,1159
+Seattle,Virginia Beach,2967
+Seattle,Oakland,802
+Seattle,Minneapolis,1656
+Seattle,Tampa,3091
+Seattle,Tulsa,1993
+Seattle,Buffalo,2608
+Seattle,Cleveland,2415
+Seattle,Wichita,1819
+Seattle,New Orleans,2611
+Seattle,Myrtle Beach,2990
+Seattle,Charleston,2938
+Seattle,Des Moines,1756
+Chicago,New York,796
+Chicago,Boston,982
+Chicago,Los Angeles,2015
+Chicago,Dallas,967
+Chicago,Seattle,2064
+Chicago,Houston,1083
+Chicago,Phoenix,1753
+Chicago,San Antonio,1241
+Chicago,Philadelphia,758
+Chicago,San Diego,2077
+Chicago,Austin,1162
+Chicago,Jacksonville,1062
+Chicago,Charlotte,755
+Chicago,Columbus,358
+Chicago,Indianapolis,184
+Chicago,San Francisco,2127
+Chicago,Denver,1004
+Chicago,Washington,699
+Chicago,Nashville,472
+Chicago,Oklahoma City,794
+Chicago,Las Vegas,1746
+Chicago,Portland,2119
+Chicago,Detroit,281
+Chicago,Memphis,532
+Chicago,Louisville,298
+Chicago,Milwaukee,92
+Chicago,Baltimore,701
+Chicago,Albuquerque,1337
+Chicago,Tucson,1745
+Chicago,Atlanta,716
+Chicago,Sacramento,2041
+Chicago,Kansas City,510
+Chicago,Colorado Springs,1073
+Chicago,Raleigh,816
+Chicago,Miami,1379
+Chicago,Omaha,467
+Chicago,Long Beach,2028
+Chicago,Virginia Beach,898
+Chicago,Oakland,2121
+Chicago,Minneapolis,409
+Chicago,Tampa,1173
+Chicago,Tulsa,690
+Chicago,Buffalo,536
+Chicago,Cleveland,344
+Chicago,Wichita,711
+Chicago,New Orleans,925
+Chicago,Myrtle Beach,921
+Chicago,Charleston,909
+Chicago,Des Moines,332
+Houston,New York,1628
+Houston,Boston,1846
+Houston,Los Angeles,1546
+Houston,Dallas,239
+Houston,Seattle,2348
+Houston,Chicago,1083
+Houston,Phoenix,1174
+Houston,San Antonio,197
+Houston,Philadelphia,1547
+Houston,San Diego,1468
+Houston,Austin,165
+Houston,Jacksonville,870
+Houston,Charlotte,1036
+Houston,Columbus,1157
+Houston,Indianapolis,1013
+Houston,San Francisco,1926
+Houston,Denver,1031
+Houston,Washington,1410
+Houston,Nashville,778
+Houston,Oklahoma City,444
+Houston,Las Vegas,1470
+Houston,Portland,2273
+Houston,Detroit,1332
+Houston,Memphis,567
+Houston,Louisville,950
+Houston,Milwaukee,1171
+Houston,Baltimore,1445
+Houston,Albuquerque,883
+Houston,Tucson,1060
+Houston,Atlanta,792
+Houston,Sacramento,1929
+Houston,Kansas City,744
+Houston,Colorado Springs,962
+Houston,Raleigh,1201
+Houston,Miami,1186
+Houston,Omaha,897
+Houston,Long Beach,1554
+Houston,Virginia Beach,1398
+Houston,Oakland,1915
+Houston,Minneapolis,1179
+Houston,Tampa,981
+Houston,Tulsa,494
+Houston,Buffalo,1486
+Houston,Cleveland,1299
+Houston,Wichita,602
+Houston,New Orleans,347
+Houston,Myrtle Beach,1157
+Houston,Charleston,1086
+Houston,Des Moines,934
+Phoenix,New York,2406
+Phoenix,Boston,2647
+Phoenix,Los Angeles,373
+Phoenix,Dallas,1064
+Phoenix,Seattle,1421
+Phoenix,Chicago,1753
+Phoenix,Houston,1174
+Phoenix,San Antonio,981
+Phoenix,Philadelphia,2342
+Phoenix,San Diego,354
+Phoenix,Austin,1008
+Phoenix,Jacksonville,2043
+Phoenix,Charlotte,2089
+Phoenix,Columbus,1874
+Phoenix,Indianapolis,1699
+Phoenix,San Francisco,752
+Phoenix,Denver,864
+Phoenix,Washington,2299
+Phoenix,Nashville,1636
+Phoenix,Oklahoma City,959
+Phoenix,Las Vegas,302
+Phoenix,Portland,1335
+Phoenix,Detroit,2007
+Phoenix,Memphis,1424
+Phoenix,Louisville,1716
+Phoenix,Milwaukee,1829
+Phoenix,Baltimore,2277
+Phoenix,Albuquerque,418
+Phoenix,Tucson,116
+Phoenix,Atlanta,1846
+Phoenix,Sacramento,755
+Phoenix,Kansas City,1211
+Phoenix,Colorado Springs,795
+Phoenix,Raleigh,2177
+Phoenix,Miami,2359
+Phoenix,Omaha,1301
+Phoenix,Long Beach,380
+Phoenix,Virginia Beach,2354
+Phoenix,Oakland,744
+Phoenix,Minneapolis,1645
+Phoenix,Tampa,2156
+Phoenix,Tulsa,1064
+Phoenix,Buffalo,2202
+Phoenix,Cleveland,2014
+Phoenix,Wichita,1010
+Phoenix,New Orleans,1520
+Phoenix,Myrtle Beach,2207
+Phoenix,Charleston,2144
+Phoenix,Des Moines,1404
+San Antonio,New York,1822
+San Antonio,Boston,2042
+San Antonio,Los Angeles,1353
+San Antonio,Dallas,275
+San Antonio,Seattle,2146
+San Antonio,Chicago,1241
+San Antonio,Houston,197
+San Antonio,Phoenix,981
+San Antonio,Philadelphia,1742
+San Antonio,San Diego,1275
+San Antonio,Austin,80
+San Antonio,Jacksonville,1066
+San Antonio,Charlotte,1232
+San Antonio,Columbus,1314
+San Antonio,Indianapolis,1173
+San Antonio,San Francisco,1734
+San Antonio,Denver,933
+San Antonio,Washington,1603
+San Antonio,Nashville,938
+San Antonio,Oklahoma City,467
+San Antonio,Las Vegas,1278
+San Antonio,Portland,2074
+San Antonio,Detroit,1489
+San Antonio,Memphis,726
+San Antonio,Louisville,1110
+San Antonio,Milwaukee,1275
+San Antonio,Baltimore,1641
+San Antonio,Albuquerque,716
+San Antonio,Tucson,868
+San Antonio,Atlanta,988
+San Antonio,Sacramento,1736
+San Antonio,Kansas City,816
+San Antonio,Colorado Springs,864
+San Antonio,Raleigh,1398
+San Antonio,Miami,1382
+San Antonio,Omaha,919
+San Antonio,Long Beach,1360
+San Antonio,Virginia Beach,1595
+San Antonio,Oakland,1724
+San Antonio,Minneapolis,1252
+San Antonio,Tampa,1177
+San Antonio,Tulsa,531
+San Antonio,Buffalo,1644
+San Antonio,Cleveland,1456
+San Antonio,Wichita,624
+San Antonio,New Orleans,543
+San Antonio,Myrtle Beach,1345
+San Antonio,Charleston,1282
+San Antonio,Des Moines,1009
+Philadelphia,New York,97
+Philadelphia,Boston,308
+Philadelphia,Los Angeles,2741
+Philadelphia,Dallas,1473
+Philadelphia,Seattle,2821
+Philadelphia,Chicago,758
+Philadelphia,Houston,1547
+Philadelphia,Phoenix,2342
+Philadelphia,San Antonio,1742
+Philadelphia,San Diego,2695
+Philadelphia,Austin,1669
+Philadelphia,Jacksonville,846
+Philadelphia,Charlotte,539
+Philadelphia,Columbus,469
+Philadelphia,Indianapolis,643
+Philadelphia,San Francisco,2871
+Philadelphia,Denver,1728
+Philadelphia,Washington,142
+Philadelphia,Nashville,806
+Philadelphia,Oklahoma City,1384
+Philadelphia,Las Vegas,2472
+Philadelphia,Portland,2864
+Philadelphia,Detroit,594
+Philadelphia,Memphis,1016
+Philadelphia,Louisville,672
+Philadelphia,Milwaukee,850
+Philadelphia,Baltimore,106
+Philadelphia,Albuquerque,1926
+Philadelphia,Tucson,2334
+Philadelphia,Atlanta,778
+Philadelphia,Sacramento,2785
+Philadelphia,Kansas City,1125
+Philadelphia,Colorado Springs,1710
+Philadelphia,Raleigh,424
+Philadelphia,Miami,1190
+Philadelphia,Omaha,1211
+Philadelphia,Long Beach,2734
+Philadelphia,Virginia Beach,276
+Philadelphia,Oakland,2866
+Philadelphia,Minneapolis,1172
+Philadelphia,Tampa,1049
+Philadelphia,Tulsa,1279
+Philadelphia,Buffalo,380
+Philadelphia,Cleveland,433
+Philadelphia,Wichita,1322
+Philadelphia,New Orleans,1223
+Philadelphia,Myrtle Beach,575
+Philadelphia,Charleston,672
+Philadelphia,Des Moines,1076
+San Diego,New York,2759
+San Diego,Boston,3000
+San Diego,Los Angeles,120
+San Diego,Dallas,1358
+San Diego,Seattle,1255
+San Diego,Chicago,2077
+San Diego,Houston,1468
+San Diego,Phoenix,354
+San Diego,San Antonio,1275
+San Diego,Philadelphia,2695
+San Diego,Austin,1302
+San Diego,Jacksonville,2337
+San Diego,Charlotte,2383
+San Diego,Columbus,2227
+San Diego,Indianapolis,2051
+San Diego,San Francisco,501
+San Diego,Denver,1078
+San Diego,Washington,2686
+San Diego,Nashville,2021
+San Diego,Oklahoma City,1312
+San Diego,Las Vegas,332
+San Diego,Portland,1083
+San Diego,Detroit,2343
+San Diego,Memphis,1810
+San Diego,Louisville,2069
+San Diego,Milwaukee,2118
+San Diego,Baltimore,2630
+San Diego,Albuquerque,771
+San Diego,Tucson,411
+San Diego,Atlanta,2140
+San Diego,Sacramento,504
+San Diego,Kansas City,1564
+San Diego,Colorado Springs,1144
+San Diego,Raleigh,2550
+San Diego,Miami,2652
+San Diego,Omaha,1614
+San Diego,Long Beach,113
+San Diego,Virginia Beach,2752
+San Diego,Oakland,492
+San Diego,Minneapolis,1989
+San Diego,Tampa,2451
+San Diego,Tulsa,1418
+San Diego,Buffalo,2554
+San Diego,Cleveland,2405
+San Diego,Wichita,1364
+San Diego,New Orleans,1814
+San Diego,Myrtle Beach,2503
+San Diego,Charleston,2438
+San Diego,Des Moines,1745
+Austin,New York,1749
+Austin,Boston,1969
+Austin,Los Angeles,1380
+Austin,Dallas,196
+Austin,Seattle,2128
+Austin,Chicago,1162
+Austin,Houston,165
+Austin,Phoenix,1008
+Austin,San Antonio,80
+Austin,Philadelphia,1669
+Austin,San Diego,1302
+Austin,Jacksonville,1034
+Austin,Charlotte,1200
+Austin,Columbus,1240
+Austin,Indianapolis,1100
+Austin,San Francisco,1760
+Austin,Denver,920
+Austin,Washington,1529
+Austin,Nashville,865
+Austin,Oklahoma City,388
+Austin,Las Vegas,1266
+Austin,Portland,2054
+Austin,Detroit,1386
+Austin,Memphis,653
+Austin,Louisville,1037
+Austin,Milwaukee,1202
+Austin,Baltimore,1567
+Austin,Albuquerque,696
+Austin,Tucson,894
+Austin,Atlanta,956
+Austin,Sacramento,1763
+Austin,Kansas City,738
+Austin,Colorado Springs,850
+Austin,Raleigh,1365
+Austin,Miami,1350
+Austin,Omaha,840
+Austin,Long Beach,1388
+Austin,Virginia Beach,1563
+Austin,Oakland,1749
+Austin,Minneapolis,1171
+Austin,Tampa,1145
+Austin,Tulsa,452
+Austin,Buffalo,1570
+Austin,Cleveland,1383
+Austin,Wichita,546
+Austin,New Orleans,511
+Austin,Myrtle Beach,1321
+Austin,Charleston,1256
+Austin,Des Moines,927
+Jacksonville,New York,932
+Jacksonville,Boston,1153
+Jacksonville,Los Angeles,2415
+Jacksonville,Dallas,996
+Jacksonville,Seattle,2982
+Jacksonville,Chicago,1062
+Jacksonville,Houston,870
+Jacksonville,Phoenix,2043
+Jacksonville,San Antonio,1066
+Jacksonville,Philadelphia,846
+Jacksonville,San Diego,2337
+Jacksonville,Austin,1034
+Jacksonville,Charlotte,383
+Jacksonville,Columbus,808
+Jacksonville,Indianapolis,878
+Jacksonville,San Francisco,2795
+Jacksonville,Denver,1747
+Jacksonville,Washington,706
+Jacksonville,Nashville,595
+Jacksonville,Oklahoma City,1194
+Jacksonville,Las Vegas,2207
+Jacksonville,Portland,2940
+Jacksonville,Detroit,1020
+Jacksonville,Memphis,729
+Jacksonville,Louisville,767
+Jacksonville,Milwaukee,1159
+Jacksonville,Baltimore,751
+Jacksonville,Albuquerque,1643
+Jacksonville,Tucson,1929
+Jacksonville,Atlanta,346
+Jacksonville,Sacramento,2798
+Jacksonville,Kansas City,1146
+Jacksonville,Colorado Springs,1730
+Jacksonville,Raleigh,453
+Jacksonville,Miami,345
+Jacksonville,Omaha,1330
+Jacksonville,Long Beach,2422
+Jacksonville,Virginia Beach,630
+Jacksonville,Oakland,2765
+Jacksonville,Minneapolis,1475
+Jacksonville,Tampa,200
+Jacksonville,Tulsa,1129
+Jacksonville,Buffalo,1042
+Jacksonville,Cleveland,896
+Jacksonville,Wichita,1304
+Jacksonville,New Orleans,546
+Jacksonville,Myrtle Beach,358
+Jacksonville,Charleston,239
+Jacksonville,Des Moines,1245
+Charlotte,New York,625
+Charlotte,Boston,847
+Charlotte,Los Angeles,2411
+Charlotte,Dallas,1025
+Charlotte,Seattle,2795
+Charlotte,Chicago,755
+Charlotte,Houston,1036
+Charlotte,Phoenix,2089
+Charlotte,San Antonio,1232
+Charlotte,Philadelphia,539
+Charlotte,San Diego,2383
+Charlotte,Austin,1200
+Charlotte,Jacksonville,383
+Charlotte,Columbus,425
+Charlotte,Indianapolis,576
+Charlotte,San Francisco,2717
+Charlotte,Denver,1563
+Charlotte,Washington,399
+Charlotte,Nashville,409
+Charlotte,Oklahoma City,1093
+Charlotte,Las Vegas,2196
+Charlotte,Portland,2753
+Charlotte,Detroit,629
+Charlotte,Memphis,619
+Charlotte,Louisville,473
+Charlotte,Milwaukee,853
+Charlotte,Baltimore,445
+Charlotte,Albuquerque,1634
+Charlotte,Tucson,1975
+Charlotte,Atlanta,244
+Charlotte,Sacramento,2675
+Charlotte,Kansas City,959
+Charlotte,Colorado Springs,1545
+Charlotte,Raleigh,170
+Charlotte,Miami,729
+Charlotte,Omaha,1144
+Charlotte,Long Beach,2427
+Charlotte,Virginia Beach,342
+Charlotte,Oakland,2709
+Charlotte,Minneapolis,1168
+Charlotte,Tampa,580
+Charlotte,Tulsa,1028
+Charlotte,Buffalo,660
+Charlotte,Cleveland,515
+Charlotte,Wichita,1084
+Charlotte,New Orleans,712
+Charlotte,Myrtle Beach,182
+Charlotte,Charleston,209
+Charlotte,Des Moines,1057
+Columbus,New York,536
+Columbus,Boston,775
+Columbus,Los Angeles,2243
+Columbus,Dallas,1041
+Columbus,Seattle,2390
+Columbus,Chicago,358
+Columbus,Houston,1157
+Columbus,Phoenix,1874
+Columbus,San Antonio,1314
+Columbus,Philadelphia,469
+Columbus,San Diego,2227
+Columbus,Austin,1240
+Columbus,Jacksonville,808
+Columbus,Charlotte,425
+Columbus,Indianapolis,176
+Columbus,San Francisco,2443
+Columbus,Denver,1261
+Columbus,Washington,402
+Columbus,Nashville,379
+Columbus,Oklahoma City,916
+Columbus,Las Vegas,2005
+Columbus,Portland,2435
+Columbus,Detroit,203
+Columbus,Memphis,589
+Columbus,Louisville,211
+Columbus,Milwaukee,452
+Columbus,Baltimore,404
+Columbus,Albuquerque,1458
+Columbus,Tucson,1866
+Columbus,Atlanta,567
+Columbus,Sacramento,2357
+Columbus,Kansas City,657
+Columbus,Colorado Springs,1243
+Columbus,Raleigh,485
+Columbus,Miami,1153
+Columbus,Omaha,783
+Columbus,Long Beach,2259
+Columbus,Virginia Beach,584
+Columbus,Oakland,2427
+Columbus,Minneapolis,768
+Columbus,Tampa,1023
+Columbus,Tulsa,811
+Columbus,Buffalo,329
+Columbus,Cleveland,142
+Columbus,Wichita,855
+Columbus,New Orleans,911
+Columbus,Myrtle Beach,590
+Columbus,Charleston,637
+Columbus,Des Moines,648
+Indianapolis,New York,710
+Indianapolis,Boston,949
+Indianapolis,Los Angeles,2067
+Indianapolis,Dallas,905
+Indianapolis,Seattle,2219
+Indianapolis,Chicago,184
+Indianapolis,Houston,1013
+Indianapolis,Phoenix,1699
+Indianapolis,San Antonio,1173
+Indianapolis,Philadelphia,643
+Indianapolis,San Diego,2051
+Indianapolis,Austin,1100
+Indianapolis,Jacksonville,878
+Indianapolis,Charlotte,576
+Indianapolis,Columbus,176
+Indianapolis,San Francisco,2271
+Indianapolis,Denver,1085
+Indianapolis,Washington,576
+Indianapolis,Nashville,288
+Indianapolis,Oklahoma City,740
+Indianapolis,Las Vegas,1830
+Indianapolis,Portland,2263
+Indianapolis,Detroit,299
+Indianapolis,Memphis,464
+Indianapolis,Louisville,114
+Indianapolis,Milwaukee,279
+Indianapolis,Baltimore,579
+Indianapolis,Albuquerque,1283
+Indianapolis,Tucson,1691
+Indianapolis,Atlanta,534
+Indianapolis,Sacramento,2185
+Indianapolis,Kansas City,482
+Indianapolis,Colorado Springs,1067
+Indianapolis,Raleigh,634
+Indianapolis,Miami,1195
+Indianapolis,Omaha,611
+Indianapolis,Long Beach,2083
+Indianapolis,Virginia Beach,733
+Indianapolis,Oakland,2266
+Indianapolis,Minneapolis,595
+Indianapolis,Tampa,989
+Indianapolis,Tulsa,635
+Indianapolis,Buffalo,503
+Indianapolis,Cleveland,316
+Indianapolis,Wichita,679
+Indianapolis,New Orleans,819
+Indianapolis,Myrtle Beach,775
+Indianapolis,Charleston,727
+Indianapolis,Des Moines,475
+San Francisco,New York,2902
+San Francisco,Boston,3094
+San Francisco,Los Angeles,381
+San Francisco,Dallas,1731
+San Francisco,Seattle,807
+San Francisco,Chicago,2127
+San Francisco,Houston,1926
+San Francisco,Phoenix,752
+San Francisco,San Antonio,1734
+San Francisco,Philadelphia,2871
+San Francisco,San Diego,501
+San Francisco,Austin,1760
+San Francisco,Jacksonville,2795
+San Francisco,Charlotte,2717
+San Francisco,Columbus,2443
+San Francisco,Indianapolis,2271
+San Francisco,Denver,1250
+San Francisco,Washington,2816
+San Francisco,Nashville,2302
+San Francisco,Oklahoma City,1626
+San Francisco,Las Vegas,568
+San Francisco,Portland,634
+San Francisco,Detroit,2393
+San Francisco,Memphis,2091
+San Francisco,Louisville,2307
+San Francisco,Milwaukee,2168
+San Francisco,Baltimore,2813
+San Francisco,Albuquerque,1085
+San Francisco,Tucson,868
+San Francisco,Atlanta,2473
+San Francisco,Sacramento,87
+San Francisco,Kansas City,1803
+San Francisco,Colorado Springs,1318
+San Francisco,Raleigh,2844
+San Francisco,Miami,3111
+San Francisco,Omaha,1664
+San Francisco,Long Beach,405
+San Francisco,Virginia Beach,2975
+San Francisco,Oakland,12
+San Francisco,Minneapolis,1975
+San Francisco,Tampa,2908
+San Francisco,Tulsa,1733
+San Francisco,Buffalo,2648
+San Francisco,Cleveland,2456
+San Francisco,Wichita,1761
+San Francisco,New Orleans,2272
+San Francisco,Myrtle Beach,2834
+San Francisco,Charleston,2772
+San Francisco,Des Moines,1795
+Denver,New York,1778
+Denver,Boston,1971
+Denver,Los Angeles,1016
+Denver,Dallas,794
+Denver,Seattle,1317
+Denver,Chicago,1004
+Denver,Houston,1031
+Denver,Phoenix,864
+Denver,San Antonio,933
+Denver,Philadelphia,1728
+Denver,San Diego,1078
+Denver,Austin,920
+Denver,Jacksonville,1747
+Denver,Charlotte,1563
+Denver,Columbus,1261
+Denver,Indianapolis,1085
+Denver,San Francisco,1250
+Denver,Washington,1660
+Denver,Nashville,1157
+Denver,Oklahoma City,679
+Denver,Las Vegas,747
+Denver,Portland,1243
+Denver,Detroit,1269
+Denver,Memphis,1095
+Denver,Louisville,1110
+Denver,Milwaukee,1046
+Denver,Baltimore,1664
+Denver,Albuquerque,448
+Denver,Tucson,895
+Denver,Atlanta,1404
+Denver,Sacramento,1164
+Denver,Kansas City,604
+Denver,Colorado Springs,70
+Denver,Raleigh,1676
+Denver,Miami,2064
+Denver,Omaha,540
+Denver,Long Beach,1030
+Denver,Virginia Beach,1775
+Denver,Oakland,1245
+Denver,Minneapolis,915
+Denver,Tampa,1858
+Denver,Tulsa,693
+Denver,Buffalo,1525
+Denver,Cleveland,1333
+Denver,Wichita,520
+Denver,New Orleans,1300
+Denver,Myrtle Beach,1752
+Denver,Charleston,1706
+Denver,Des Moines,671
+Washington,New York,229
+Washington,Boston,443
+Washington,Los Angeles,2669
+Washington,Dallas,1333
+Washington,Seattle,2768
+Washington,Chicago,699
+Washington,Houston,1410
+Washington,Phoenix,2299
+Washington,San Antonio,1603
+Washington,Philadelphia,142
+Washington,San Diego,2686
+Washington,Austin,1529
+Washington,Jacksonville,706
+Washington,Charlotte,399
+Washington,Columbus,402
+Washington,Indianapolis,576
+Washington,San Francisco,2816
+Washington,Denver,1660
+Washington,Nashville,666
+Washington,Oklahoma City,1341
+Washington,Las Vegas,2405
+Washington,Portland,2808
+Washington,Detroit,535
+Washington,Memphis,876
+Washington,Louisville,608
+Washington,Milwaukee,791
+Washington,Baltimore,41
+Washington,Albuquerque,1884
+Washington,Tucson,2277
+Washington,Atlanta,637
+Washington,Sacramento,2733
+Washington,Kansas City,1058
+Washington,Colorado Springs,1643
+Washington,Raleigh,278
+Washington,Miami,1050
+Washington,Omaha,1152
+Washington,Long Beach,2677
+Washington,Virginia Beach,208
+Washington,Oakland,2811
+Washington,Minneapolis,1113
+Washington,Tampa,903
+Washington,Tulsa,1212
+Washington,Buffalo,384
+Washington,Cleveland,373
+Washington,Wichita,1254
+Washington,New Orleans,1083
+Washington,Myrtle Beach,435
+Washington,Charleston,531
+Washington,Des Moines,1017
+Nashville,New York,886
+Nashville,Boston,1105
+Nashville,Los Angeles,2005
+Nashville,Dallas,670
+Nashville,Seattle,2391
+Nashville,Chicago,472
+Nashville,Houston,778
+Nashville,Phoenix,1636
+Nashville,San Antonio,938
+Nashville,Philadelphia,806
+Nashville,San Diego,2021
+Nashville,Austin,865
+Nashville,Jacksonville,595
+Nashville,Charlotte,409
+Nashville,Columbus,379
+Nashville,Indianapolis,288
+Nashville,San Francisco,2302
+Nashville,Denver,1157
+Nashville,Washington,666
+Nashville,Oklahoma City,678
+Nashville,Las Vegas,1789
+Nashville,Portland,2349
+Nashville,Detroit,545
+Nashville,Memphis,212
+Nashville,Louisville,175
+Nashville,Milwaukee,567
+Nashville,Baltimore,703
+Nashville,Albuquerque,1220
+Nashville,Tucson,1614
+Nashville,Atlanta,250
+Nashville,Sacramento,2271
+Nashville,Kansas City,554
+Nashville,Colorado Springs,1139
+Nashville,Raleigh,544
+Nashville,Miami,911
+Nashville,Omaha,739
+Nashville,Long Beach,2013
+Nashville,Virginia Beach,721
+Nashville,Oakland,2292
+Nashville,Minneapolis,882
+Nashville,Tampa,705
+Nashville,Tulsa,613
+Nashville,Buffalo,709
+Nashville,Cleveland,521
+Nashville,Wichita,673
+Nashville,New Orleans,532
+Nashville,Myrtle Beach,590
+Nashville,Charleston,552
+Nashville,Des Moines,655
+Oklahoma City,New York,1448
+Oklahoma City,Boston,1689
+Oklahoma City,Los Angeles,1329
+Oklahoma City,Dallas,205
+Oklahoma City,Seattle,1984
+Oklahoma City,Chicago,794
+Oklahoma City,Houston,444
+Oklahoma City,Phoenix,959
+Oklahoma City,San Antonio,467
+Oklahoma City,Philadelphia,1384
+Oklahoma City,San Diego,1312
+Oklahoma City,Austin,388
+Oklahoma City,Jacksonville,1194
+Oklahoma City,Charlotte,1093
+Oklahoma City,Columbus,916
+Oklahoma City,Indianapolis,740
+Oklahoma City,San Francisco,1626
+Oklahoma City,Denver,679
+Oklahoma City,Washington,1341
+Oklahoma City,Nashville,678
+Oklahoma City,Las Vegas,1113
+Oklahoma City,Portland,1910
+Oklahoma City,Detroit,1048
+Oklahoma City,Memphis,467
+Oklahoma City,Louisville,758
+Oklahoma City,Milwaukee,871
+Oklahoma City,Baltimore,1319
+Oklahoma City,Albuquerque,544
+Oklahoma City,Tucson,951
+Oklahoma City,Atlanta,849
+Oklahoma City,Sacramento,1621
+Oklahoma City,Kansas City,353
+Oklahoma City,Colorado Springs,593
+Oklahoma City,Raleigh,1219
+Oklahoma City,Miami,1510
+Oklahoma City,Omaha,456
+Oklahoma City,Long Beach,1342
+Oklahoma City,Virginia Beach,1397
+Oklahoma City,Oakland,1619
+Oklahoma City,Minneapolis,789
+Oklahoma City,Tampa,1303
+Oklahoma City,Tulsa,106
+Oklahoma City,Buffalo,1243
+Oklahoma City,Cleveland,1056
+Oklahoma City,Wichita,162
+Oklahoma City,New Orleans,708
+Oklahoma City,Myrtle Beach,1209
+Oklahoma City,Charleston,1148
+Oklahoma City,Des Moines,546
+Las Vegas,New York,2529
+Las Vegas,Boston,2713
+Las Vegas,Los Angeles,270
+Las Vegas,Dallas,1217
+Las Vegas,Seattle,1125
+Las Vegas,Chicago,1746
+Las Vegas,Houston,1470
+Las Vegas,Phoenix,302
+Las Vegas,San Antonio,1278
+Las Vegas,Philadelphia,2472
+Las Vegas,San Diego,332
+Las Vegas,Austin,1266
+Las Vegas,Jacksonville,2207
+Las Vegas,Charlotte,2196
+Las Vegas,Columbus,2005
+Las Vegas,Indianapolis,1830
+Las Vegas,San Francisco,568
+Las Vegas,Denver,747
+Las Vegas,Washington,2405
+Las Vegas,Nashville,1789
+Las Vegas,Oklahoma City,1113
+Las Vegas,Portland,970
+Las Vegas,Detroit,2012
+Las Vegas,Memphis,1578
+Las Vegas,Louisville,1855
+Las Vegas,Milwaukee,1789
+Las Vegas,Baltimore,2408
+Las Vegas,Albuquerque,571
+Las Vegas,Tucson,417
+Las Vegas,Atlanta,1960
+Las Vegas,Sacramento,564
+Las Vegas,Kansas City,1349
+Las Vegas,Colorado Springs,813
+Las Vegas,Raleigh,2330
+Las Vegas,Miami,2529
+Las Vegas,Omaha,1284
+Las Vegas,Long Beach,284
+Las Vegas,Virginia Beach,2521
+Las Vegas,Oakland,557
+Las Vegas,Minneapolis,1658
+Las Vegas,Tampa,2322
+Las Vegas,Tulsa,1217
+Las Vegas,Buffalo,2267
+Las Vegas,Cleveland,2075
+Las Vegas,Wichita,1264
+Las Vegas,New Orleans,1722
+Las Vegas,Myrtle Beach,2321
+Las Vegas,Charleston,2258
+Las Vegas,Des Moines,1414
+Portland,New York,2895
+Portland,Boston,3086
+Portland,Los Angeles,964
+Portland,Dallas,2034
+Portland,Seattle,173
+Portland,Chicago,2119
+Portland,Houston,2273
+Portland,Phoenix,1335
+Portland,San Antonio,2074
+Portland,Philadelphia,2864
+Portland,San Diego,1083
+Portland,Austin,2054
+Portland,Jacksonville,2940
+Portland,Charlotte,2753
+Portland,Columbus,2435
+Portland,Indianapolis,2263
+Portland,San Francisco,634
+Portland,Denver,1243
+Portland,Washington,2808
+Portland,Nashville,2349
+Portland,Oklahoma City,1910
+Portland,Las Vegas,970
+Portland,Detroit,2385
+Portland,Memphis,2245
+Portland,Louisville,2300
+Portland,Milwaukee,2065
+Portland,Baltimore,2805
+Portland,Albuquerque,1362
+Portland,Tucson,1450
+Portland,Atlanta,2595
+Portland,Sacramento,580
+Portland,Kansas City,1795
+Portland,Colorado Springs,1311
+Portland,Raleigh,2871
+Portland,Miami,3256
+Portland,Omaha,1657
+Portland,Long Beach,987
+Portland,Virginia Beach,2967
+Portland,Oakland,630
+Portland,Minneapolis,1729
+Portland,Tampa,3052
+Portland,Tulsa,1927
+Portland,Buffalo,2641
+Portland,Cleveland,2448
+Portland,Wichita,1753
+Portland,New Orleans,2537
+Portland,Myrtle Beach,2944
+Portland,Charleston,2897
+Portland,Des Moines,1787
+Detroit,New York,632
+Detroit,Boston,706
+Detroit,Los Angeles,2281
+Detroit,Dallas,1191
+Detroit,Seattle,2353
+Detroit,Chicago,281
+Detroit,Houston,1332
+Detroit,Phoenix,2007
+Detroit,San Antonio,1489
+Detroit,Philadelphia,594
+Detroit,San Diego,2343
+Detroit,Austin,1386
+Detroit,Jacksonville,1020
+Detroit,Charlotte,629
+Detroit,Columbus,203
+Detroit,Indianapolis,299
+Detroit,San Francisco,2393
+Detroit,Denver,1269
+Detroit,Washington,535
+Detroit,Nashville,545
+Detroit,Oklahoma City,1048
+Detroit,Las Vegas,2012
+Detroit,Portland,2385
+Detroit,Memphis,754
+Detroit,Louisville,371
+Detroit,Milwaukee,382
+Detroit,Baltimore,526
+Detroit,Albuquerque,1569
+Detroit,Tucson,1999
+Detroit,Atlanta,722
+Detroit,Sacramento,2307
+Detroit,Kansas City,764
+Detroit,Colorado Springs,1338
+Detroit,Raleigh,698
+Detroit,Miami,1394
+Detroit,Omaha,733
+Detroit,Long Beach,2294
+Detroit,Virginia Beach,734
+Detroit,Oakland,2388
+Detroit,Minneapolis,698
+Detroit,Tampa,1189
+Detroit,Tulsa,944
+Detroit,Buffalo,256
+Detroit,Cleveland,169
+Detroit,Wichita,965
+Detroit,New Orleans,1076
+Detroit,Myrtle Beach,803
+Detroit,Charleston,836
+Detroit,Des Moines,598
+Memphis,New York,1096
+Memphis,Boston,1315
+Memphis,Los Angeles,1794
+Memphis,Dallas,452
+Memphis,Seattle,2287
+Memphis,Chicago,532
+Memphis,Houston,567
+Memphis,Phoenix,1424
+Memphis,San Antonio,726
+Memphis,Philadelphia,1016
+Memphis,San Diego,1810
+Memphis,Austin,653
+Memphis,Jacksonville,729
+Memphis,Charlotte,619
+Memphis,Columbus,589
+Memphis,Indianapolis,464
+Memphis,San Francisco,2091
+Memphis,Denver,1095
+Memphis,Washington,876
+Memphis,Nashville,212
+Memphis,Oklahoma City,467
+Memphis,Las Vegas,1578
+Memphis,Portland,2245
+Memphis,Detroit,754
+Memphis,Louisville,384
+Memphis,Milwaukee,622
+Memphis,Baltimore,914
+Memphis,Albuquerque,1008
+Memphis,Tucson,1402
+Memphis,Atlanta,384
+Memphis,Sacramento,2086
+Memphis,Kansas City,451
+Memphis,Colorado Springs,1077
+Memphis,Raleigh,754
+Memphis,Miami,1045
+Memphis,Omaha,635
+Memphis,Long Beach,1801
+Memphis,Virginia Beach,931
+Memphis,Oakland,2080
+Memphis,Minneapolis,829
+Memphis,Tampa,839
+Memphis,Tulsa,402
+Memphis,Buffalo,918
+Memphis,Cleveland,731
+Memphis,Wichita,577
+Memphis,New Orleans,395
+Memphis,Myrtle Beach,745
+Memphis,Charleston,683
+Memphis,Des Moines,616
+Louisville,New York,745
+Louisville,Boston,981
+Louisville,Los Angeles,2123
+Louisville,Dallas,842
+Louisville,Seattle,2330
+Louisville,Chicago,298
+Louisville,Houston,950
+Louisville,Phoenix,1716
+Louisville,San Antonio,1110
+Louisville,Philadelphia,672
+Louisville,San Diego,2069
+Louisville,Austin,1037
+Louisville,Jacksonville,767
+Louisville,Charlotte,473
+Louisville,Columbus,211
+Louisville,Indianapolis,114
+Louisville,San Francisco,2307
+Louisville,Denver,1110
+Louisville,Washington,608
+Louisville,Nashville,175
+Louisville,Oklahoma City,758
+Louisville,Las Vegas,1855
+Louisville,Portland,2300
+Louisville,Detroit,371
+Louisville,Memphis,384
+Louisville,Milwaukee,394
+Louisville,Baltimore,609
+Louisville,Albuquerque,1304
+Louisville,Tucson,1708
+Louisville,Atlanta,421
+Louisville,Sacramento,2221
+Louisville,Kansas City,507
+Louisville,Colorado Springs,1093
+Louisville,Raleigh,569
+Louisville,Miami,1082
+Louisville,Omaha,690
+Louisville,Long Beach,2105
+Louisville,Virginia Beach,669
+Louisville,Oakland,2302
+Louisville,Minneapolis,710
+Louisville,Tampa,876
+Louisville,Tulsa,653
+Louisville,Buffalo,535
+Louisville,Cleveland,353
+Louisville,Wichita,702
+Louisville,New Orleans,706
+Louisville,Myrtle Beach,656
+Louisville,Charleston,616
+Louisville,Des Moines,587
+Milwaukee,New York,880
+Milwaukee,Boston,1073
+Milwaukee,Los Angeles,2057
+Milwaukee,Dallas,1002
+Milwaukee,Seattle,1992
+Milwaukee,Chicago,92
+Milwaukee,Houston,1171
+Milwaukee,Phoenix,1829
+Milwaukee,San Antonio,1275
+Milwaukee,Philadelphia,850
+Milwaukee,San Diego,2118
+Milwaukee,Austin,1202
+Milwaukee,Jacksonville,1159
+Milwaukee,Charlotte,853
+Milwaukee,Columbus,452
+Milwaukee,Indianapolis,279
+Milwaukee,San Francisco,2168
+Milwaukee,Denver,1046
+Milwaukee,Washington,791
+Milwaukee,Nashville,567
+Milwaukee,Oklahoma City,871
+Milwaukee,Las Vegas,1789
+Milwaukee,Portland,2065
+Milwaukee,Detroit,382
+Milwaukee,Memphis,622
+Milwaukee,Louisville,394
+Milwaukee,Baltimore,792
+Milwaukee,Albuquerque,1413
+Milwaukee,Tucson,1821
+Milwaukee,Atlanta,814
+Milwaukee,Sacramento,2082
+Milwaukee,Kansas City,568
+Milwaukee,Colorado Springs,1115
+Milwaukee,Raleigh,911
+Milwaukee,Miami,1475
+Milwaukee,Omaha,508
+Milwaukee,Long Beach,2069
+Milwaukee,Virginia Beach,990
+Milwaukee,Oakland,2168
+Milwaukee,Minneapolis,337
+Milwaukee,Tampa,1269
+Milwaukee,Tulsa,766
+Milwaukee,Buffalo,627
+Milwaukee,Cleveland,435
+Milwaukee,Wichita,766
+Milwaukee,New Orleans,1015
+Milwaukee,Myrtle Beach,1046
+Milwaukee,Charleston,1006
+Milwaukee,Des Moines,374
+Baltimore,New York,191
+Baltimore,Boston,404
+Baltimore,Los Angeles,2646
+Baltimore,Dallas,1366
+Baltimore,Seattle,2773
+Baltimore,Chicago,701
+Baltimore,Houston,1445
+Baltimore,Phoenix,2277
+Baltimore,San Antonio,1641
+Baltimore,Philadelphia,106
+Baltimore,San Diego,2630
+Baltimore,Austin,1567
+Baltimore,Jacksonville,751
+Baltimore,Charlotte,445
+Baltimore,Columbus,404
+Baltimore,Indianapolis,579
+Baltimore,San Francisco,2813
+Baltimore,Denver,1664
+Baltimore,Washington,41
+Baltimore,Nashville,703
+Baltimore,Oklahoma City,1319
+Baltimore,Las Vegas,2408
+Baltimore,Portland,2805
+Baltimore,Detroit,526
+Baltimore,Memphis,914
+Baltimore,Louisville,609
+Baltimore,Milwaukee,792
+Baltimore,Albuquerque,1861
+Baltimore,Tucson,2315
+Baltimore,Atlanta,683
+Baltimore,Sacramento,2727
+Baltimore,Kansas City,1060
+Baltimore,Colorado Springs,1646
+Baltimore,Raleigh,323
+Baltimore,Miami,1097
+Baltimore,Omaha,1153
+Baltimore,Long Beach,2714
+Baltimore,Virginia Beach,254
+Baltimore,Oakland,2808
+Baltimore,Minneapolis,1109
+Baltimore,Tampa,948
+Baltimore,Tulsa,1214
+Baltimore,Buffalo,360
+Baltimore,Cleveland,374
+Baltimore,Wichita,1258
+Baltimore,New Orleans,1122
+Baltimore,Myrtle Beach,478
+Baltimore,Charleston,577
+Baltimore,Des Moines,1018
+Albuquerque,New York,1993
+Albuquerque,Boston,2233
+Albuquerque,Los Angeles,787
+Albuquerque,Dallas,649
+Albuquerque,Seattle,1436
+Albuquerque,Chicago,1337
+Albuquerque,Houston,883
+Albuquerque,Phoenix,418
+Albuquerque,San Antonio,716
+Albuquerque,Philadelphia,1926
+Albuquerque,San Diego,771
+Albuquerque,Austin,696
+Albuquerque,Jacksonville,1643
+Albuquerque,Charlotte,1634
+Albuquerque,Columbus,1458
+Albuquerque,Indianapolis,1283
+Albuquerque,San Francisco,1085
+Albuquerque,Denver,448
+Albuquerque,Washington,1884
+Albuquerque,Nashville,1220
+Albuquerque,Oklahoma City,544
+Albuquerque,Las Vegas,571
+Albuquerque,Portland,1362
+Albuquerque,Detroit,1569
+Albuquerque,Memphis,1008
+Albuquerque,Louisville,1304
+Albuquerque,Milwaukee,1413
+Albuquerque,Baltimore,1861
+Albuquerque,Tucson,447
+Albuquerque,Atlanta,1390
+Albuquerque,Sacramento,1080
+Albuquerque,Kansas City,793
+Albuquerque,Colorado Springs,378
+Albuquerque,Raleigh,1762
+Albuquerque,Miami,1959
+Albuquerque,Omaha,885
+Albuquerque,Long Beach,801
+Albuquerque,Virginia Beach,1938
+Albuquerque,Oakland,1074
+Albuquerque,Minneapolis,1222
+Albuquerque,Tampa,1754
+Albuquerque,Tulsa,649
+Albuquerque,Buffalo,1792
+Albuquerque,Cleveland,1599
+Albuquerque,Wichita,595
+Albuquerque,New Orleans,1152
+Albuquerque,Myrtle Beach,1754
+Albuquerque,Charleston,1695
+Albuquerque,Des Moines,982
+Tucson,New York,2398
+Tucson,Boston,2639
+Tucson,Los Angeles,488
+Tucson,Dallas,950
+Tucson,Seattle,1532
+Tucson,Chicago,1745
+Tucson,Houston,1060
+Tucson,Phoenix,116
+Tucson,San Antonio,868
+Tucson,Philadelphia,2334
+Tucson,San Diego,411
+Tucson,Austin,894
+Tucson,Jacksonville,1929
+Tucson,Charlotte,1975
+Tucson,Columbus,1866
+Tucson,Indianapolis,1691
+Tucson,San Francisco,868
+Tucson,Denver,895
+Tucson,Washington,2277
+Tucson,Nashville,1614
+Tucson,Oklahoma City,951
+Tucson,Las Vegas,417
+Tucson,Portland,1450
+Tucson,Detroit,1999
+Tucson,Memphis,1402
+Tucson,Louisville,1708
+Tucson,Milwaukee,1821
+Tucson,Baltimore,2315
+Tucson,Albuquerque,447
+Tucson,Atlanta,1732
+Tucson,Sacramento,872
+Tucson,Kansas City,1203
+Tucson,Colorado Springs,825
+Tucson,Raleigh,2172
+Tucson,Miami,2245
+Tucson,Omaha,1331
+Tucson,Long Beach,495
+Tucson,Virginia Beach,2343
+Tucson,Oakland,859
+Tucson,Minneapolis,1637
+Tucson,Tampa,2039
+Tucson,Tulsa,1056
+Tucson,Buffalo,2194
+Tucson,Cleveland,2006
+Tucson,Wichita,1002
+Tucson,New Orleans,1406
+Tucson,Myrtle Beach,2092
+Tucson,Charleston,2030
+Tucson,Des Moines,1395
+Atlanta,New York,864
+Atlanta,Boston,1077
+Atlanta,Los Angeles,2175
+Atlanta,Dallas,781
+Atlanta,Seattle,2637
+Atlanta,Chicago,716
+Atlanta,Houston,792
+Atlanta,Phoenix,1846
+Atlanta,San Antonio,988
+Atlanta,Philadelphia,778
+Atlanta,San Diego,2140
+Atlanta,Austin,956
+Atlanta,Jacksonville,346
+Atlanta,Charlotte,244
+Atlanta,Columbus,567
+Atlanta,Indianapolis,534
+Atlanta,San Francisco,2473
+Atlanta,Denver,1404
+Atlanta,Washington,637
+Atlanta,Nashville,250
+Atlanta,Oklahoma City,849
+Atlanta,Las Vegas,1960
+Atlanta,Portland,2595
+Atlanta,Detroit,722
+Atlanta,Memphis,384
+Atlanta,Louisville,421
+Atlanta,Milwaukee,814
+Atlanta,Baltimore,683
+Atlanta,Albuquerque,1390
+Atlanta,Tucson,1732
+Atlanta,Sacramento,2468
+Atlanta,Kansas City,801
+Atlanta,Colorado Springs,1386
+Atlanta,Raleigh,409
+Atlanta,Miami,662
+Atlanta,Omaha,985
+Atlanta,Long Beach,2189
+Atlanta,Virginia Beach,612
+Atlanta,Oakland,2462
+Atlanta,Minneapolis,1130
+Atlanta,Tampa,457
+Atlanta,Tulsa,784
+Atlanta,Buffalo,897
+Atlanta,Cleveland,710
+Atlanta,Wichita,960
+Atlanta,New Orleans,469
+Atlanta,Myrtle Beach,362
+Atlanta,Charleston,305
+Atlanta,Des Moines,892
+Sacramento,New York,2816
+Sacramento,Boston,3008
+Sacramento,Los Angeles,384
+Sacramento,Dallas,1726
+Sacramento,Seattle,752
+Sacramento,Chicago,2041
+Sacramento,Houston,1929
+Sacramento,Phoenix,755
+Sacramento,San Antonio,1736
+Sacramento,Philadelphia,2785
+Sacramento,San Diego,504
+Sacramento,Austin,1763
+Sacramento,Jacksonville,2798
+Sacramento,Charlotte,2675
+Sacramento,Columbus,2357
+Sacramento,Indianapolis,2185
+Sacramento,San Francisco,87
+Sacramento,Denver,1164
+Sacramento,Washington,2733
+Sacramento,Nashville,2271
+Sacramento,Oklahoma City,1621
+Sacramento,Las Vegas,564
+Sacramento,Portland,580
+Sacramento,Detroit,2307
+Sacramento,Memphis,2086
+Sacramento,Louisville,2221
+Sacramento,Milwaukee,2082
+Sacramento,Baltimore,2727
+Sacramento,Albuquerque,1080
+Sacramento,Tucson,872
+Sacramento,Atlanta,2468
+Sacramento,Kansas City,1716
+Sacramento,Colorado Springs,1232
+Sacramento,Raleigh,2789
+Sacramento,Miami,3114
+Sacramento,Omaha,1578
+Sacramento,Long Beach,408
+Sacramento,Virginia Beach,2903
+Sacramento,Oakland,82
+Sacramento,Minneapolis,1888
+Sacramento,Tampa,2911
+Sacramento,Tulsa,1729
+Sacramento,Buffalo,2566
+Sacramento,Cleveland,2369
+Sacramento,Wichita,1678
+Sacramento,New Orleans,2275
+Sacramento,Myrtle Beach,2863
+Sacramento,Charleston,2824
+Sacramento,Des Moines,1709
+Kansas City,New York,1192
+Kansas City,Boston,1430
+Kansas City,Los Angeles,1618
+Kansas City,Dallas,507
+Kansas City,Seattle,1837
+Kansas City,Chicago,510
+Kansas City,Houston,744
+Kansas City,Phoenix,1211
+Kansas City,San Antonio,816
+Kansas City,Philadelphia,1125
+Kansas City,San Diego,1564
+Kansas City,Austin,738
+Kansas City,Jacksonville,1146
+Kansas City,Charlotte,959
+Kansas City,Columbus,657
+Kansas City,Indianapolis,482
+Kansas City,San Francisco,1803
+Kansas City,Denver,604
+Kansas City,Washington,1058
+Kansas City,Nashville,554
+Kansas City,Oklahoma City,353
+Kansas City,Las Vegas,1349
+Kansas City,Portland,1795
+Kansas City,Detroit,764
+Kansas City,Memphis,451
+Kansas City,Louisville,507
+Kansas City,Milwaukee,568
+Kansas City,Baltimore,1060
+Kansas City,Albuquerque,793
+Kansas City,Tucson,1203
+Kansas City,Atlanta,801
+Kansas City,Sacramento,1716
+Kansas City,Colorado Springs,587
+Kansas City,Raleigh,1074
+Kansas City,Miami,1461
+Kansas City,Omaha,185
+Kansas City,Long Beach,1631
+Kansas City,Virginia Beach,1173
+Kansas City,Oakland,1797
+Kansas City,Minneapolis,438
+Kansas City,Tampa,1255
+Kansas City,Tulsa,271
+Kansas City,Buffalo,985
+Kansas City,Cleveland,797
+Kansas City,Wichita,201
+Kansas City,New Orleans,844
+Kansas City,Myrtle Beach,1150
+Kansas City,Charleston,1103
+Kansas City,Des Moines,194
+Colorado Springs,New York,1777
+Colorado Springs,Boston,2016
+Colorado Springs,Los Angeles,1082
+Colorado Springs,Dallas,727
+Colorado Springs,Seattle,1385
+Colorado Springs,Chicago,1073
+Colorado Springs,Houston,962
+Colorado Springs,Phoenix,795
+Colorado Springs,San Antonio,864
+Colorado Springs,Philadelphia,1710
+Colorado Springs,San Diego,1144
+Colorado Springs,Austin,850
+Colorado Springs,Jacksonville,1730
+Colorado Springs,Charlotte,1545
+Colorado Springs,Columbus,1243
+Colorado Springs,Indianapolis,1067
+Colorado Springs,San Francisco,1318
+Colorado Springs,Denver,70
+Colorado Springs,Washington,1643
+Colorado Springs,Nashville,1139
+Colorado Springs,Oklahoma City,593
+Colorado Springs,Las Vegas,813
+Colorado Springs,Portland,1311
+Colorado Springs,Detroit,1338
+Colorado Springs,Memphis,1077
+Colorado Springs,Louisville,1093
+Colorado Springs,Milwaukee,1115
+Colorado Springs,Baltimore,1646
+Colorado Springs,Albuquerque,378
+Colorado Springs,Tucson,825
+Colorado Springs,Atlanta,1386
+Colorado Springs,Sacramento,1232
+Colorado Springs,Kansas City,587
+Colorado Springs,Raleigh,1659
+Colorado Springs,Miami,2046
+Colorado Springs,Omaha,609
+Colorado Springs,Long Beach,1096
+Colorado Springs,Virginia Beach,1758
+Colorado Springs,Oakland,1313
+Colorado Springs,Minneapolis,984
+Colorado Springs,Tampa,1841
+Colorado Springs,Tulsa,676
+Colorado Springs,Buffalo,1570
+Colorado Springs,Cleveland,1383
+Colorado Springs,Wichita,502
+Colorado Springs,New Orleans,1231
+Colorado Springs,Myrtle Beach,1726
+Colorado Springs,Charleston,1688
+Colorado Springs,Des Moines,740
+Raleigh,New York,511
+Raleigh,Boston,725
+Raleigh,Los Angeles,2547
+Raleigh,Dallas,1190
+Raleigh,Seattle,2881
+Raleigh,Chicago,816
+Raleigh,Houston,1201
+Raleigh,Phoenix,2177
+Raleigh,San Antonio,1398
+Raleigh,Philadelphia,424
+Raleigh,San Diego,2550
+Raleigh,Austin,1365
+Raleigh,Jacksonville,453
+Raleigh,Charlotte,170
+Raleigh,Columbus,485
+Raleigh,Indianapolis,634
+Raleigh,San Francisco,2844
+Raleigh,Denver,1676
+Raleigh,Washington,278
+Raleigh,Nashville,544
+Raleigh,Oklahoma City,1219
+Raleigh,Las Vegas,2330
+Raleigh,Portland,2871
+Raleigh,Detroit,698
+Raleigh,Memphis,754
+Raleigh,Louisville,569
+Raleigh,Milwaukee,911
+Raleigh,Baltimore,323
+Raleigh,Albuquerque,1762
+Raleigh,Tucson,2172
+Raleigh,Atlanta,409
+Raleigh,Sacramento,2789
+Raleigh,Kansas City,1074
+Raleigh,Colorado Springs,1659
+Raleigh,Miami,797
+Raleigh,Omaha,1258
+Raleigh,Long Beach,2562
+Raleigh,Virginia Beach,202
+Raleigh,Oakland,2839
+Raleigh,Minneapolis,1223
+Raleigh,Tampa,649
+Raleigh,Tulsa,1154
+Raleigh,Buffalo,651
+Raleigh,Cleveland,573
+Raleigh,Wichita,1212
+Raleigh,New Orleans,877
+Raleigh,Myrtle Beach,182
+Raleigh,Charleston,278
+Raleigh,Des Moines,1106
+Miami,New York,1276
+Miami,Boston,1499
+Miami,Los Angeles,2733
+Miami,Dallas,1313
+Miami,Seattle,3298
+Miami,Chicago,1379
+Miami,Houston,1186
+Miami,Phoenix,2359
+Miami,San Antonio,1382
+Miami,Philadelphia,1190
+Miami,San Diego,2652
+Miami,Austin,1350
+Miami,Jacksonville,345
+Miami,Charlotte,729
+Miami,Columbus,1153
+Miami,Indianapolis,1195
+Miami,San Francisco,3111
+Miami,Denver,2064
+Miami,Washington,1050
+Miami,Nashville,911
+Miami,Oklahoma City,1510
+Miami,Las Vegas,2529
+Miami,Portland,3256
+Miami,Detroit,1394
+Miami,Memphis,1045
+Miami,Louisville,1082
+Miami,Milwaukee,1475
+Miami,Baltimore,1097
+Miami,Albuquerque,1959
+Miami,Tucson,2245
+Miami,Atlanta,662
+Miami,Sacramento,3114
+Miami,Kansas City,1461
+Miami,Colorado Springs,2046
+Miami,Raleigh,797
+Miami,Omaha,1646
+Miami,Long Beach,2740
+Miami,Virginia Beach,974
+Miami,Oakland,3100
+Miami,Minneapolis,1791
+Miami,Tampa,280
+Miami,Tulsa,1445
+Miami,Buffalo,1387
+Miami,Cleveland,1242
+Miami,Wichita,1620
+Miami,New Orleans,862
+Miami,Myrtle Beach,702
+Miami,Charleston,584
+Miami,Des Moines,1562
+Omaha,New York,1242
+Omaha,Boston,1434
+Omaha,Los Angeles,1552
+Omaha,Dallas,657
+Omaha,Seattle,1655
+Omaha,Chicago,467
+Omaha,Houston,897
+Omaha,Phoenix,1301
+Omaha,San Antonio,919
+Omaha,Philadelphia,1211
+Omaha,San Diego,1614
+Omaha,Austin,840
+Omaha,Jacksonville,1330
+Omaha,Charlotte,1144
+Omaha,Columbus,783
+Omaha,Indianapolis,611
+Omaha,San Francisco,1664
+Omaha,Denver,540
+Omaha,Washington,1152
+Omaha,Nashville,739
+Omaha,Oklahoma City,456
+Omaha,Las Vegas,1284
+Omaha,Portland,1657
+Omaha,Detroit,733
+Omaha,Memphis,635
+Omaha,Louisville,690
+Omaha,Milwaukee,508
+Omaha,Baltimore,1153
+Omaha,Albuquerque,885
+Omaha,Tucson,1331
+Omaha,Atlanta,985
+Omaha,Sacramento,1578
+Omaha,Kansas City,185
+Omaha,Colorado Springs,609
+Omaha,Raleigh,1258
+Omaha,Miami,1646
+Omaha,Long Beach,1567
+Omaha,Virginia Beach,1358
+Omaha,Oakland,1659
+Omaha,Minneapolis,379
+Omaha,Tampa,1440
+Omaha,Tulsa,381
+Omaha,Buffalo,988
+Omaha,Cleveland,795
+Omaha,Wichita,304
+Omaha,New Orleans,1029
+Omaha,Myrtle Beach,1326
+Omaha,Charleston,1287
+Omaha,Des Moines,135
+Long Beach,New York,2802
+Long Beach,Boston,2997
+Long Beach,Los Angeles,24
+Long Beach,Dallas,1444
+Long Beach,Seattle,1159
+Long Beach,Chicago,2028
+Long Beach,Houston,1554
+Long Beach,Phoenix,380
+Long Beach,San Antonio,1360
+Long Beach,Philadelphia,2734
+Long Beach,San Diego,113
+Long Beach,Austin,1388
+Long Beach,Jacksonville,2422
+Long Beach,Charlotte,2427
+Long Beach,Columbus,2259
+Long Beach,Indianapolis,2083
+Long Beach,San Francisco,405
+Long Beach,Denver,1030
+Long Beach,Washington,2677
+Long Beach,Nashville,2013
+Long Beach,Oklahoma City,1342
+Long Beach,Las Vegas,284
+Long Beach,Portland,987
+Long Beach,Detroit,2294
+Long Beach,Memphis,1801
+Long Beach,Louisville,2105
+Long Beach,Milwaukee,2069
+Long Beach,Baltimore,2714
+Long Beach,Albuquerque,801
+Long Beach,Tucson,495
+Long Beach,Atlanta,2189
+Long Beach,Sacramento,408
+Long Beach,Kansas City,1631
+Long Beach,Colorado Springs,1096
+Long Beach,Raleigh,2562
+Long Beach,Miami,2740
+Long Beach,Omaha,1567
+Long Beach,Virginia Beach,2732
+Long Beach,Oakland,394
+Long Beach,Minneapolis,1940
+Long Beach,Tampa,2535
+Long Beach,Tulsa,1449
+Long Beach,Buffalo,2550
+Long Beach,Cleveland,2362
+Long Beach,Wichita,1393
+Long Beach,New Orleans,1901
+Long Beach,Myrtle Beach,2547
+Long Beach,Charleston,2509
+Long Beach,Des Moines,1696
+Virginia Beach,New York,363
+Virginia Beach,Boston,577
+Virginia Beach,Los Angeles,2724
+Virginia Beach,Dallas,1393
+Virginia Beach,Seattle,2967
+Virginia Beach,Chicago,898
+Virginia Beach,Houston,1398
+Virginia Beach,Phoenix,2354
+Virginia Beach,San Antonio,1595
+Virginia Beach,Philadelphia,276
+Virginia Beach,San Diego,2752
+Virginia Beach,Austin,1563
+Virginia Beach,Jacksonville,630
+Virginia Beach,Charlotte,342
+Virginia Beach,Columbus,584
+Virginia Beach,Indianapolis,733
+Virginia Beach,San Francisco,2975
+Virginia Beach,Denver,1775
+Virginia Beach,Washington,208
+Virginia Beach,Nashville,721
+Virginia Beach,Oklahoma City,1397
+Virginia Beach,Las Vegas,2521
+Virginia Beach,Portland,2967
+Virginia Beach,Detroit,734
+Virginia Beach,Memphis,931
+Virginia Beach,Louisville,669
+Virginia Beach,Milwaukee,990
+Virginia Beach,Baltimore,254
+Virginia Beach,Albuquerque,1938
+Virginia Beach,Tucson,2343
+Virginia Beach,Atlanta,612
+Virginia Beach,Sacramento,2903
+Virginia Beach,Kansas City,1173
+Virginia Beach,Colorado Springs,1758
+Virginia Beach,Raleigh,202
+Virginia Beach,Miami,974
+Virginia Beach,Omaha,1358
+Virginia Beach,Long Beach,2732
+Virginia Beach,Oakland,2981
+Virginia Beach,Minneapolis,1312
+Virginia Beach,Tampa,827
+Virginia Beach,Tulsa,1325
+Virginia Beach,Buffalo,583
+Virginia Beach,Cleveland,572
+Virginia Beach,Wichita,1370
+Virginia Beach,New Orleans,1075
+Virginia Beach,Myrtle Beach,359
+Virginia Beach,Charleston,455
+Virginia Beach,Des Moines,1205
+Oakland,New York,2897
+Oakland,Boston,3089
+Oakland,Los Angeles,370
+Oakland,Dallas,1720
+Oakland,Seattle,802
+Oakland,Chicago,2121
+Oakland,Houston,1915
+Oakland,Phoenix,744
+Oakland,San Antonio,1724
+Oakland,Philadelphia,2866
+Oakland,San Diego,492
+Oakland,Austin,1749
+Oakland,Jacksonville,2765
+Oakland,Charlotte,2709
+Oakland,Columbus,2427
+Oakland,Indianapolis,2266
+Oakland,San Francisco,12
+Oakland,Denver,1245
+Oakland,Washington,2811
+Oakland,Nashville,2292
+Oakland,Oklahoma City,1619
+Oakland,Las Vegas,557
+Oakland,Portland,630
+Oakland,Detroit,2388
+Oakland,Memphis,2080
+Oakland,Louisville,2302
+Oakland,Milwaukee,2168
+Oakland,Baltimore,2808
+Oakland,Albuquerque,1074
+Oakland,Tucson,859
+Oakland,Atlanta,2462
+Oakland,Sacramento,82
+Oakland,Kansas City,1797
+Oakland,Colorado Springs,1313
+Oakland,Raleigh,2839
+Oakland,Miami,3100
+Oakland,Omaha,1659
+Oakland,Long Beach,394
+Oakland,Virginia Beach,2981
+Oakland,Minneapolis,1972
+Oakland,Tampa,2895
+Oakland,Tulsa,1724
+Oakland,Buffalo,2643
+Oakland,Cleveland,2450
+Oakland,Wichita,1669
+Oakland,New Orleans,2261
+Oakland,Myrtle Beach,2820
+Oakland,Charleston,2786
+Oakland,Des Moines,1794
+Minneapolis,New York,1202
+Minneapolis,Boston,1398
+Minneapolis,Los Angeles,1926
+Minneapolis,Dallas,942
+Minneapolis,Seattle,1656
+Minneapolis,Chicago,409
+Minneapolis,Houston,1179
+Minneapolis,Phoenix,1645
+Minneapolis,San Antonio,1252
+Minneapolis,Philadelphia,1172
+Minneapolis,San Diego,1989
+Minneapolis,Austin,1171
+Minneapolis,Jacksonville,1475
+Minneapolis,Charlotte,1168
+Minneapolis,Columbus,768
+Minneapolis,Indianapolis,595
+Minneapolis,San Francisco,1975
+Minneapolis,Denver,915
+Minneapolis,Washington,1113
+Minneapolis,Nashville,882
+Minneapolis,Oklahoma City,789
+Minneapolis,Las Vegas,1658
+Minneapolis,Portland,1729
+Minneapolis,Detroit,698
+Minneapolis,Memphis,829
+Minneapolis,Louisville,710
+Minneapolis,Milwaukee,337
+Minneapolis,Baltimore,1109
+Minneapolis,Albuquerque,1222
+Minneapolis,Tucson,1637
+Minneapolis,Atlanta,1130
+Minneapolis,Sacramento,1888
+Minneapolis,Kansas City,438
+Minneapolis,Colorado Springs,984
+Minneapolis,Raleigh,1223
+Minneapolis,Miami,1791
+Minneapolis,Omaha,379
+Minneapolis,Long Beach,1940
+Minneapolis,Virginia Beach,1312
+Minneapolis,Oakland,1972
+Minneapolis,Tampa,1584
+Minneapolis,Tulsa,704
+Minneapolis,Buffalo,953
+Minneapolis,Cleveland,751
+Minneapolis,Wichita,637
+Minneapolis,New Orleans,1222
+Minneapolis,Myrtle Beach,1358
+Minneapolis,Charleston,1322
+Minneapolis,Des Moines,244
+Tampa,New York,1136
+Tampa,Boston,1350
+Tampa,Los Angeles,2527
+Tampa,Dallas,1107
+Tampa,Seattle,3091
+Tampa,Chicago,1173
+Tampa,Houston,981
+Tampa,Phoenix,2156
+Tampa,San Antonio,1177
+Tampa,Philadelphia,1049
+Tampa,San Diego,2451
+Tampa,Austin,1145
+Tampa,Jacksonville,200
+Tampa,Charlotte,580
+Tampa,Columbus,1023
+Tampa,Indianapolis,989
+Tampa,San Francisco,2908
+Tampa,Denver,1858
+Tampa,Washington,903
+Tampa,Nashville,705
+Tampa,Oklahoma City,1303
+Tampa,Las Vegas,2322
+Tampa,Portland,3052
+Tampa,Detroit,1189
+Tampa,Memphis,839
+Tampa,Louisville,876
+Tampa,Milwaukee,1269
+Tampa,Baltimore,948
+Tampa,Albuquerque,1754
+Tampa,Tucson,2039
+Tampa,Atlanta,457
+Tampa,Sacramento,2911
+Tampa,Kansas City,1255
+Tampa,Colorado Springs,1841
+Tampa,Raleigh,649
+Tampa,Miami,280
+Tampa,Omaha,1440
+Tampa,Long Beach,2535
+Tampa,Virginia Beach,827
+Tampa,Oakland,2895
+Tampa,Minneapolis,1584
+Tampa,Tulsa,1240
+Tampa,Buffalo,1238
+Tampa,Cleveland,1093
+Tampa,Wichita,1415
+Tampa,New Orleans,657
+Tampa,Myrtle Beach,554
+Tampa,Charleston,435
+Tampa,Des Moines,1356
+Tulsa,New York,1343
+Tulsa,Boston,1584
+Tulsa,Los Angeles,1434
+Tulsa,Dallas,257
+Tulsa,Seattle,1993
+Tulsa,Chicago,690
+Tulsa,Houston,494
+Tulsa,Phoenix,1064
+Tulsa,San Antonio,531
+Tulsa,Philadelphia,1279
+Tulsa,San Diego,1418
+Tulsa,Austin,452
+Tulsa,Jacksonville,1129
+Tulsa,Charlotte,1028
+Tulsa,Columbus,811
+Tulsa,Indianapolis,635
+Tulsa,San Francisco,1733
+Tulsa,Denver,693
+Tulsa,Washington,1212
+Tulsa,Nashville,613
+Tulsa,Oklahoma City,106
+Tulsa,Las Vegas,1217
+Tulsa,Portland,1927
+Tulsa,Detroit,944
+Tulsa,Memphis,402
+Tulsa,Louisville,653
+Tulsa,Milwaukee,766
+Tulsa,Baltimore,1214
+Tulsa,Albuquerque,649
+Tulsa,Tucson,1056
+Tulsa,Atlanta,784
+Tulsa,Sacramento,1729
+Tulsa,Kansas City,271
+Tulsa,Colorado Springs,676
+Tulsa,Raleigh,1154
+Tulsa,Miami,1445
+Tulsa,Omaha,381
+Tulsa,Long Beach,1449
+Tulsa,Virginia Beach,1325
+Tulsa,Oakland,1724
+Tulsa,Minneapolis,704
+Tulsa,Tampa,1240
+Tulsa,Buffalo,1138
+Tulsa,Cleveland,951
+Tulsa,Wichita,177
+Tulsa,New Orleans,655
+Tulsa,Myrtle Beach,1145
+Tulsa,Charleston,1088
+Tulsa,Des Moines,461
+Buffalo,New York,372
+Buffalo,Boston,454
+Buffalo,Los Angeles,2536
+Buffalo,Dallas,1370
+Buffalo,Seattle,2608
+Buffalo,Chicago,536
+Buffalo,Houston,1486
+Buffalo,Phoenix,2202
+Buffalo,San Antonio,1644
+Buffalo,Philadelphia,380
+Buffalo,San Diego,2554
+Buffalo,Austin,1570
+Buffalo,Jacksonville,1042
+Buffalo,Charlotte,660
+Buffalo,Columbus,329
+Buffalo,Indianapolis,503
+Buffalo,San Francisco,2648
+Buffalo,Denver,1525
+Buffalo,Washington,384
+Buffalo,Nashville,709
+Buffalo,Oklahoma City,1243
+Buffalo,Las Vegas,2267
+Buffalo,Portland,2641
+Buffalo,Detroit,256
+Buffalo,Memphis,918
+Buffalo,Louisville,535
+Buffalo,Milwaukee,627
+Buffalo,Baltimore,360
+Buffalo,Albuquerque,1792
+Buffalo,Tucson,2194
+Buffalo,Atlanta,897
+Buffalo,Sacramento,2566
+Buffalo,Kansas City,985
+Buffalo,Colorado Springs,1570
+Buffalo,Raleigh,651
+Buffalo,Miami,1387
+Buffalo,Omaha,988
+Buffalo,Long Beach,2550
+Buffalo,Virginia Beach,583
+Buffalo,Oakland,2643
+Buffalo,Minneapolis,953
+Buffalo,Tampa,1238
+Buffalo,Tulsa,1138
+Buffalo,Cleveland,193
+Buffalo,Wichita,1179
+Buffalo,New Orleans,1240
+Buffalo,Myrtle Beach,824
+Buffalo,Charleston,867
+Buffalo,Des Moines,854
+Cleveland,New York,469
+Cleveland,Boston,639
+Cleveland,Los Angeles,2344
+Cleveland,Dallas,1183
+Cleveland,Seattle,2415
+Cleveland,Chicago,344
+Cleveland,Houston,1299
+Cleveland,Phoenix,2014
+Cleveland,San Antonio,1456
+Cleveland,Philadelphia,433
+Cleveland,San Diego,2405
+Cleveland,Austin,1383
+Cleveland,Jacksonville,896
+Cleveland,Charlotte,515
+Cleveland,Columbus,142
+Cleveland,Indianapolis,316
+Cleveland,San Francisco,2456
+Cleveland,Denver,1333
+Cleveland,Washington,373
+Cleveland,Nashville,521
+Cleveland,Oklahoma City,1056
+Cleveland,Las Vegas,2075
+Cleveland,Portland,2448
+Cleveland,Detroit,169
+Cleveland,Memphis,731
+Cleveland,Louisville,353
+Cleveland,Milwaukee,435
+Cleveland,Baltimore,374
+Cleveland,Albuquerque,1599
+Cleveland,Tucson,2006
+Cleveland,Atlanta,710
+Cleveland,Sacramento,2369
+Cleveland,Kansas City,797
+Cleveland,Colorado Springs,1383
+Cleveland,Raleigh,573
+Cleveland,Miami,1242
+Cleveland,Omaha,795
+Cleveland,Long Beach,2362
+Cleveland,Virginia Beach,572
+Cleveland,Oakland,2450
+Cleveland,Minneapolis,751
+Cleveland,Tampa,1093
+Cleveland,Tulsa,951
+Cleveland,Buffalo,193
+Cleveland,Wichita,993
+Cleveland,New Orleans,1053
+Cleveland,Myrtle Beach,678
+Cleveland,Charleston,722
+Cleveland,Des Moines,661
+Wichita,New York,1385
+Wichita,Boston,1628
+Wichita,Los Angeles,1380
+Wichita,Dallas,363
+Wichita,Seattle,1819
+Wichita,Chicago,711
+Wichita,Houston,602
+Wichita,Phoenix,1010
+Wichita,San Antonio,624
+Wichita,Philadelphia,1322
+Wichita,San Diego,1364
+Wichita,Austin,546
+Wichita,Jacksonville,1304
+Wichita,Charlotte,1084
+Wichita,Columbus,855
+Wichita,Indianapolis,679
+Wichita,San Francisco,1761
+Wichita,Denver,520
+Wichita,Washington,1254
+Wichita,Nashville,673
+Wichita,Oklahoma City,162
+Wichita,Las Vegas,1264
+Wichita,Portland,1753
+Wichita,Detroit,965
+Wichita,Memphis,577
+Wichita,Louisville,702
+Wichita,Milwaukee,766
+Wichita,Baltimore,1258
+Wichita,Albuquerque,595
+Wichita,Tucson,1002
+Wichita,Atlanta,960
+Wichita,Sacramento,1678
+Wichita,Kansas City,201
+Wichita,Colorado Springs,502
+Wichita,Raleigh,1212
+Wichita,Miami,1620
+Wichita,Omaha,304
+Wichita,Long Beach,1393
+Wichita,Virginia Beach,1370
+Wichita,Oakland,1669
+Wichita,Minneapolis,637
+Wichita,Tampa,1415
+Wichita,Tulsa,177
+Wichita,Buffalo,1179
+Wichita,Cleveland,993
+Wichita,New Orleans,866
+Wichita,Myrtle Beach,1323
+Wichita,Charleston,1265
+Wichita,Des Moines,393
+New Orleans,New York,1304
+New Orleans,Boston,1523
+New Orleans,Los Angeles,1894
+New Orleans,Dallas,506
+New Orleans,Seattle,2611
+New Orleans,Chicago,925
+New Orleans,Houston,347
+New Orleans,Phoenix,1520
+New Orleans,San Antonio,543
+New Orleans,Philadelphia,1223
+New Orleans,San Diego,1814
+New Orleans,Austin,511
+New Orleans,Jacksonville,546
+New Orleans,Charlotte,712
+New Orleans,Columbus,911
+New Orleans,Indianapolis,819
+New Orleans,San Francisco,2272
+New Orleans,Denver,1300
+New Orleans,Washington,1083
+New Orleans,Nashville,532
+New Orleans,Oklahoma City,708
+New Orleans,Las Vegas,1722
+New Orleans,Portland,2537
+New Orleans,Detroit,1076
+New Orleans,Memphis,395
+New Orleans,Louisville,706
+New Orleans,Milwaukee,1015
+New Orleans,Baltimore,1122
+New Orleans,Albuquerque,1152
+New Orleans,Tucson,1406
+New Orleans,Atlanta,469
+New Orleans,Sacramento,2275
+New Orleans,Kansas City,844
+New Orleans,Colorado Springs,1231
+New Orleans,Raleigh,877
+New Orleans,Miami,862
+New Orleans,Omaha,1029
+New Orleans,Long Beach,1901
+New Orleans,Virginia Beach,1075
+New Orleans,Oakland,2261
+New Orleans,Minneapolis,1222
+New Orleans,Tampa,657
+New Orleans,Tulsa,655
+New Orleans,Buffalo,1240
+New Orleans,Cleveland,1053
+New Orleans,Wichita,866
+New Orleans,Myrtle Beach,825
+New Orleans,Charleston,762
+New Orleans,Des Moines,1009
+Myrtle Beach,New York,661
+Myrtle Beach,Boston,880
+Myrtle Beach,Los Angeles,2537
+Myrtle Beach,Dallas,1151
+Myrtle Beach,Seattle,2990
+Myrtle Beach,Chicago,921
+Myrtle Beach,Houston,1157
+Myrtle Beach,Phoenix,2207
+Myrtle Beach,San Antonio,1345
+Myrtle Beach,Philadelphia,575
+Myrtle Beach,San Diego,2503
+Myrtle Beach,Austin,1321
+Myrtle Beach,Jacksonville,358
+Myrtle Beach,Charlotte,182
+Myrtle Beach,Columbus,590
+Myrtle Beach,Indianapolis,775
+Myrtle Beach,San Francisco,2834
+Myrtle Beach,Denver,1752
+Myrtle Beach,Washington,435
+Myrtle Beach,Nashville,590
+Myrtle Beach,Oklahoma City,1209
+Myrtle Beach,Las Vegas,2321
+Myrtle Beach,Portland,2944
+Myrtle Beach,Detroit,803
+Myrtle Beach,Memphis,745
+Myrtle Beach,Louisville,656
+Myrtle Beach,Milwaukee,1046
+Myrtle Beach,Baltimore,478
+Myrtle Beach,Albuquerque,1754
+Myrtle Beach,Tucson,2092
+Myrtle Beach,Atlanta,362
+Myrtle Beach,Sacramento,2863
+Myrtle Beach,Kansas City,1150
+Myrtle Beach,Colorado Springs,1726
+Myrtle Beach,Raleigh,182
+Myrtle Beach,Miami,702
+Myrtle Beach,Omaha,1326
+Myrtle Beach,Long Beach,2547
+Myrtle Beach,Virginia Beach,359
+Myrtle Beach,Oakland,2820
+Myrtle Beach,Minneapolis,1358
+Myrtle Beach,Tampa,554
+Myrtle Beach,Tulsa,1145
+Myrtle Beach,Buffalo,824
+Myrtle Beach,Cleveland,678
+Myrtle Beach,Wichita,1323
+Myrtle Beach,New Orleans,825
+Myrtle Beach,Charleston,95
+Myrtle Beach,Des Moines,1248
+Charleston,New York,758
+Charleston,Boston,979
+Charleston,Los Angeles,2474
+Charleston,Dallas,1080
+Charleston,Seattle,2938
+Charleston,Chicago,909
+Charleston,Houston,1086
+Charleston,Phoenix,2144
+Charleston,San Antonio,1282
+Charleston,Philadelphia,672
+Charleston,San Diego,2438
+Charleston,Austin,1256
+Charleston,Jacksonville,239
+Charleston,Charlotte,209
+Charleston,Columbus,637
+Charleston,Indianapolis,727
+Charleston,San Francisco,2772
+Charleston,Denver,1706
+Charleston,Washington,531
+Charleston,Nashville,552
+Charleston,Oklahoma City,1148
+Charleston,Las Vegas,2258
+Charleston,Portland,2897
+Charleston,Detroit,836
+Charleston,Memphis,683
+Charleston,Louisville,616
+Charleston,Milwaukee,1006
+Charleston,Baltimore,577
+Charleston,Albuquerque,1695
+Charleston,Tucson,2030
+Charleston,Atlanta,305
+Charleston,Sacramento,2824
+Charleston,Kansas City,1103
+Charleston,Colorado Springs,1688
+Charleston,Raleigh,278
+Charleston,Miami,584
+Charleston,Omaha,1287
+Charleston,Long Beach,2509
+Charleston,Virginia Beach,455
+Charleston,Oakland,2786
+Charleston,Minneapolis,1322
+Charleston,Tampa,435
+Charleston,Tulsa,1088
+Charleston,Buffalo,867
+Charleston,Cleveland,722
+Charleston,Wichita,1265
+Charleston,New Orleans,762
+Charleston,Myrtle Beach,95
+Charleston,Des Moines,1200
+Des Moines,New York,1106
+Des Moines,Boston,1299
+Des Moines,Los Angeles,1683
+Des Moines,Dallas,697
+Des Moines,Seattle,1756
+Des Moines,Chicago,332
+Des Moines,Houston,934
+Des Moines,Phoenix,1404
+Des Moines,San Antonio,1009
+Des Moines,Philadelphia,1076
+Des Moines,San Diego,1745
+Des Moines,Austin,927
+Des Moines,Jacksonville,1245
+Des Moines,Charlotte,1057
+Des Moines,Columbus,648
+Des Moines,Indianapolis,475
+Des Moines,San Francisco,1795
+Des Moines,Denver,671
+Des Moines,Washington,1017
+Des Moines,Nashville,655
+Des Moines,Oklahoma City,546
+Des Moines,Las Vegas,1414
+Des Moines,Portland,1787
+Des Moines,Detroit,598
+Des Moines,Memphis,616
+Des Moines,Louisville,587
+Des Moines,Milwaukee,374
+Des Moines,Baltimore,1018
+Des Moines,Albuquerque,982
+Des Moines,Tucson,1395
+Des Moines,Atlanta,892
+Des Moines,Sacramento,1709
+Des Moines,Kansas City,194
+Des Moines,Colorado Springs,740
+Des Moines,Raleigh,1106
+Des Moines,Miami,1562
+Des Moines,Omaha,135
+Des Moines,Long Beach,1696
+Des Moines,Virginia Beach,1205
+Des Moines,Oakland,1794
+Des Moines,Minneapolis,244
+Des Moines,Tampa,1356
+Des Moines,Tulsa,461
+Des Moines,Buffalo,854
+Des Moines,Cleveland,661
+Des Moines,Wichita,393
+Des Moines,New Orleans,1009
+Des Moines,Myrtle Beach,1248
+Des Moines,Charleston,1200
