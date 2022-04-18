@@ -1,0 +1,50 @@
+New York, NY
+Boston, MA
+Los Angeles, CA
+Dallas, TX
+Seattle, WA
+Chicago, IL
+Houston, TX
+Phoenix, AZ
+San Antonio, TX
+Philadelphia, PA
+San Diego, CA
+Austin, TX
+Jacksonville, FL
+Charlotte, NC
+Columbus, OH
+Indianapolis, IN
+San Francisco, CA
+Denver, CO
+Washington, DC
+Nashville, TN
+Oklahoma City, OK
+Las Vegas, NV
+Portland, OR
+Detroit, MI
+Memphis, TN
+Louisville, KY
+Milwaukee, WI
+Baltimore, MD
+Albuquerque, NM
+Tucson, AZ
+Atlanta, GA
+Sacramento, CA
+Kansas City, MO
+Colorado Springs, CO
+Raleigh, NC
+Miami, FL
+Omaha, NE
+Long Beach, CA
+Virginia Beach, VA
+Oakland, CA
+Minneapolis, MN
+Tampa, FL
+Tulsa, OK
+Buffalo, NY
+Cleveland, OH
+Wichita, KS
+New Orleans, LA
+Myrtle Beach, SC
+Charleston, SC
+Des Moines, IA
