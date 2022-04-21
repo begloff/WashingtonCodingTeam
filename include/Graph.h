@@ -13,6 +13,9 @@
 #define QUEUE std::queue
 #define PRIORITY_QUEUE std::priority_queue
 #define UNOR_MAP std::unordered_map
+#define STRING std::string
+#define IFSTREAM std::ifstream
+#define NUM_NODES 50
 
 template< typename T >
 struct Graph{
