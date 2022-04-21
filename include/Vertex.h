@@ -145,7 +145,7 @@ class Vertex{
 					COUT << this->edges[iter].weight << "} ";
 					
 				}
-				COUT << "]";
+				COUT << "]" << ENDL;
 			
 			}
 			// If the vertex is not valid, indicate Lazy Deletion
