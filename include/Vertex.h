@@ -133,7 +133,7 @@ class Vertex{
 			if( this->valid ){
 			
 				// Print the data element first
-				COUT << "[" << this->data << ": ";
+				COUT << "[" << this->data << ": " << this->attraction_points << ": ";
 				
 				// 
 				for( long unsigned int iter = 0; iter < this->edges.size(); iter++ ){
