@@ -53,9 +53,13 @@ int main(){
         distance_string = strtok(NULL, ",");
         distance = atoi(distance_string);
         
-        //auto orig = city_order.find(first_city);
+        auto orig = city_order.find(first_city);
+        auto destin = city_order.find(second_city);
+        
+        graph.add_edge(orig->second, destin->second, distance);
         //COUT << first_city << ENDL;
     }
+    graph.print_graph();
 
     return 0;
 }

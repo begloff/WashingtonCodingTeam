@@ -38,6 +38,13 @@ struct Graph{
 			vertices.push_back( theVertex );
 		}
 
+		void add_edge( unsigned int origin, unsigned int destin, int distance) {
+
+			if (origin < vertices.size() && destin < vertices.size() ) {
+				vertices[origin].add_edge (destin, distance);
+			}
+		}
+
 
         // Overloaded Operator
 		void print_graph(){
