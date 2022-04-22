@@ -141,7 +141,7 @@ class Vertex{
 			if( this->valid ){
 			
 				// Print the city element first
-				COUT << "[" << this->city << ": " << this->attraction_points << ": ";
+				COUT << "[" << this->city << ", " << this->state << ": " << this->attraction_points << ": ";
 				
 				// 
 				for( long unsigned int iter = 0; iter < this->edges.size(); iter++ ){
