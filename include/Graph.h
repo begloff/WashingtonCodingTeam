@@ -2,6 +2,7 @@
 #define GRAPH_H
 
 #include "Vertex.h"
+#include "roadtrip.h"
 #include <stack>
 #include <iostream>
 #include <vector>
@@ -32,9 +33,11 @@ struct Graph{
 		~Graph( ) { }
 		
 		// Add a vertex prior to any edges
-		void add_vertex( const T& vertexData, unsigned int ap){
+		void add_vertex( const T& cityData, const T& stateData, unsigned int ap){
+
+			//COUT << "Adding vertex: " << cityData << " " << stateData << " " << ap << ENDL;
 			
-			Vertex<T> theVertex( vertexData, ap );
+			Vertex<T> theVertex( cityData, stateData, ap );
 			vertices.push_back( theVertex );
 		}
 
@@ -45,9 +48,17 @@ struct Graph{
 			}
 		}
 
+		unsigned int get_ap_of_vertex(unsigned int index){
+
+			return this->vertices[index].get_ap_value();
+
+		}
+
 
         // Overloaded Operator
 		void print_graph(){
+
+			//COUT << this->vertices.size() << ENDL;
 			
 			for( unsigned int iter = 0; iter < this->vertices.size(); iter++ ){
 				
