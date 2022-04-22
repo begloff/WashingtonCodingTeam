@@ -16,32 +16,40 @@ class Vertex{
 	private:
 	
 		VECTOR< Edge > edges; 
-		T data; //Name of City
+		T city; //Name of City
+		T state; //State of City
         unsigned int attraction_points;
 		bool valid;			// Valid Vertex
 		
 	public:
 	
-		Vertex( ) : edges(), data( ), attraction_points(),valid( true ) {}
+		Vertex( ) : edges(), city( ), state (), attraction_points(),valid( true ) {}
 	
-		Vertex( const T& dataIn, unsigned int ap ) : edges(), data( dataIn ), attraction_points(ap), valid( true ) {}
+		Vertex( const T& cityIn, const T& stateIn, unsigned int ap ) : edges(), city( cityIn ), state( stateIn ), attraction_points(ap), valid( true ) {}
 		
 		~Vertex(){ }
 		
 		
-		T get_vertex_value() const{
+		T get_city_value() const{
 			
-			return data;
+			return city;
+		}
+
+		T get_state_value() const{
+
+			return state;
+
 		}
 
         unsigned int get_ap_value() const{
             
             return attraction_points;
+			
         }
 
-		void set_vertex_value(const T& dataIn){
+		void set_vertex_value(const T& cityIn){
 			
-			data = dataIn;
+			city = cityIn;
 		}
 		
 		// Adding an Edge to a Vertex
@@ -132,8 +140,8 @@ class Vertex{
 			// If the vertex is valid
 			if( this->valid ){
 			
-				// Print the data element first
-				COUT << "[" << this->data << ": " << this->attraction_points << ": ";
+				// Print the city element first
+				COUT << "[" << this->city << ": " << this->attraction_points << ": ";
 				
 				// 
 				for( long unsigned int iter = 0; iter < this->edges.size(); iter++ ){

@@ -32,9 +32,9 @@ struct Graph{
 		~Graph( ) { }
 		
 		// Add a vertex prior to any edges
-		void add_vertex( const T& vertexData, unsigned int ap){
+		void add_vertex( const T& cityData, const T& stateData, unsigned int ap){
 			
-			Vertex<T> theVertex( vertexData, ap );
+			Vertex<T> theVertex( cityData, stateData, ap );
 			vertices.push_back( theVertex );
 		}
 
@@ -43,6 +43,12 @@ struct Graph{
 			if (origin < vertices.size() && destin < vertices.size() ) {
 				vertices[origin].add_edge (destin, distance);
 			}
+		}
+
+		unsigned int get_ap_of_vertex(unsigned int index){
+
+			return this->vertices[index].get_ap_value();
+
 		}
 
 
@@ -55,6 +61,96 @@ struct Graph{
 				this->vertices[ iter ].print_vertex();
 				COUT << ENDL;
 				
+			}
+			
+		}
+
+		// Dijkstra's Algorithm
+		void Dijkstra( unsigned int origin, unsigned int destin ){
+			
+			
+			if( origin >= vertices.size() || destin >= vertices.size() || vertices.size() == 0 ){
+				
+				std::cout << "Invalid Inputs" << std::endl;
+				return;
+				
+			}
+			
+			/* Initialize the Elements */
+			PRIORITY_QUEUE< unsigned int > the_PQ;
+			VECTOR< unsigned int > parents( vertices.size(), -1 );
+			VECTOR< int > distance( vertices.size(), 2147483647 );
+			STACK< unsigned int > finalPath;
+			
+			bool found = false;
+			
+			/* Initialize the origin */
+			the_PQ.push( origin );
+			distance[origin] = 0;
+			parents[origin] = -1;
+			
+			if( destin == origin ){	
+				found = true;
+			}
+			
+			if( !found ){
+				
+				/* Run the shortest path algorithm */
+				while( !the_PQ.empty() ){
+					
+					// Get the top element of the stack and pop
+					unsigned int index = the_PQ.top();
+					the_PQ.pop();
+					
+					// Evaluate the edges from the vertex 
+					for(unsigned int iter = 0; iter < vertices[ index ].num_edges(); iter++ ){
+						
+						// Obtain the edge
+						Edge tempEdge = vertices[ index ].get_edge( iter );
+						
+						// If the weight of the edge plus distance of the  distance is less than the destin weight
+						if( distance[ index ] + tempEdge.weight < distance[ tempEdge.destin ] ) {
+							
+							// Update the distance
+							distance[ tempEdge.destin ] = distance[ index ] + tempEdge.weight;
+							
+							// Update the parent of the destin 
+							parents[ tempEdge.destin ] = index;
+							
+							// Check if destin is the result;
+							if( tempEdge.destin == destin && !found ){
+								
+								found = true;
+							}
+							
+							the_PQ.push( tempEdge.destin );
+						}
+					}
+				}
+			}
+			
+			// Otherwise, go through the parents until we find the origin
+			if( found ){
+				
+				unsigned int sentinel = destin;	
+				finalPath.push( sentinel );		// Push the desination onto the stack
+				
+				while( parents[sentinel] != -1 ){
+					
+					finalPath.push( parents[sentinel] );	// Push the parent onto the stack
+					sentinel = parents[sentinel];			// Update the sentinel
+					
+				}
+				
+				// Stack contains the correct order 
+				std::cout << "The valid Dijkstra path from 0 to " << destin << " is: ";
+				while( !finalPath.empty() ){
+					
+					std::cout << finalPath.top() << " ";
+					finalPath.pop();
+				}
+				std::cout << ", and the distance is " << distance[destin] << std::endl;
+				std::cout << std::endl;		
 			}
 			
 		}

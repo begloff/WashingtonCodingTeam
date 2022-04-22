@@ -1,0 +1,50 @@
+New York,NY,20
+Boston,MA,17
+Los Angeles,CA,20
+Dallas,TX,18
+Seattle,WA,15
+Chicago,IL,16
+Houston,TX,17
+Phoenix,AZ,15
+San Antonio,TX,16
+Philadelphia,PA,14
+San Diego,CA,17
+Austin,TX,17
+Jacksonville,FL,15
+Charlotte,NC,14
+Columbus,OH,12
+Indianapolis,IN,12
+San Francisco,CA,15
+Denver,CO,11
+Washington,DC,10
+Nashville,TN,18
+Oklahoma City,OK,10
+Las Vegas,NV,20
+Portland,OR,11
+Detroit,MI,8
+Memphis,TN,9
+Louisville,KY,8
+Milwaukee,WI,7
+Baltimore,MD,10
+Albuquerque,NM,7
+Tucson,AZ,7
+Atlanta,GA,10
+Sacramento,CA,7
+Kansas City,MO,6
+Colorado Springs,CO,6
+Raleigh,NC,6
+Miami,FL,14
+Omaha,NE,3
+Long Beach,CA,10
+Virginia Beach,VA,12
+Oakland,CA,5
+Minneapolis,MN,4
+Tampa,FL,15
+Tulsa,OK,3
+Buffalo,NY,2
+Cleveland,OH,3
+Wichita,KS,1
+New Orleans,LA,17
+Myrtle Beach,SC,5
+Charleston,SC,10
+Des Moines,IA,1
