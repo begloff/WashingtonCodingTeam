@@ -29,8 +29,12 @@
 #define IFSTREAM std::ifstream
 #define NUM_NODES 50
 
-void read_in_cities( Graph < STRING >& graph, STRING& cities_filepath, UNOR_MAP < STRING , int >& city_order);
+#define CIN std::cin
+#define GETLINE std::getline
+
+void read_in_cities( Graph < STRING >& graph, STRING& cities_filepath, UNOR_MAP < STRING , int >& city_order, UNOR_MAP < int , STRING >& city_number);
 void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP < STRING , int >& city_order );
+void print_order( STACK < unsigned int > finalPath, UNOR_MAP < int, STRING > city_number, STRING origin_city, STRING destin_city);
 
 
 #endif

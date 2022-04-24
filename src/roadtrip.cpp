@@ -3,7 +3,7 @@
 #include "../include/roadtrip.h"
 
 
-void read_in_cities( Graph < STRING >& graph, STRING& cities_filepath, UNOR_MAP < STRING , int >& city_order ){
+void read_in_cities( Graph < STRING >& graph, STRING& cities_filepath, UNOR_MAP < STRING , int >& city_order, UNOR_MAP < int , STRING >& city_number){
 
     IFSTREAM read_cities;
     read_cities.open(cities_filepath);
@@ -23,6 +23,7 @@ void read_in_cities( Graph < STRING >& graph, STRING& cities_filepath, UNOR_MAP 
 
         graph.add_vertex(city_name, city_state,atoi(attraction_points));
         city_order.insert({ city_name , i});
+        city_number.insert({ i , city_name });
         i++;
 
     }
@@ -65,4 +66,23 @@ void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP <
     }
 
     return;
+}
+
+void print_order( STACK < unsigned int > finalPath, UNOR_MAP < int, STRING > city_number, STRING origin_city, STRING destin_city){
+
+    COUT << "The optimal roadtrip from " << origin_city << " to " << destin_city << " is: " << ENDL;
+
+    while( !finalPath.empty() ){
+
+        auto current_city = city_number.find( finalPath.top() );
+
+        if( finalPath.size() != 1 ){
+            COUT << current_city->second << " -> ";
+        } else {
+            COUT << current_city->second << ENDL;
+        }
+        
+        finalPath.pop();
+    }
+
 }
