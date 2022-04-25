@@ -149,14 +149,6 @@ struct Graph{
 				
 				// Stack contains the correct order 
 				return finalPath;
-				/*std::cout << "The valid Dijkstra path from" << origin << " to " << destin << " is: ";
-				while( !finalPath.empty() ){
-					
-					std::cout << finalPath.top() << " ";
-					finalPath.pop();
-				}
-				std::cout << ", and the distance is " << distance[destin] << std::endl;
-				std::cout << std::endl;	*/	
 			}
 
 			return finalPath;

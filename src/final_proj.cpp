@@ -34,6 +34,8 @@ int main(){
 
     finalPath = graph.Dijkstra(origin_number->second,destin_number->second);
 
+    graph.print_graph();
+
     print_order(finalPath,city_number,origin_city,destin_city);
 
     return 0;

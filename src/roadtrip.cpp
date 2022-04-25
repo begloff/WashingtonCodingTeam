@@ -68,7 +68,7 @@ void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP <
     return;
 }
 
-void print_order( STACK < unsigned int > finalPath, UNOR_MAP < int, STRING > city_number, STRING origin_city, STRING destin_city){
+void print_order( STACK < unsigned int > finalPath, UNOR_MAP < int, STRING > city_number, STRING origin_city, STRING destin_city ){
 
     COUT << "The optimal roadtrip from " << origin_city << " to " << destin_city << " is: " << ENDL;
 
