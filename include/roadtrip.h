@@ -31,6 +31,7 @@
 
 #define CIN std::cin
 #define GETLINE std::getline
+#define STOF std::stof
 
 void read_in_cities( Graph < STRING >& graph, STRING& cities_filepath, UNOR_MAP < STRING , int >& city_order, UNOR_MAP < int , STRING >& city_number);
 void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP < STRING , int >& city_order );

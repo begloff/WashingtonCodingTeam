@@ -33,22 +33,20 @@ struct Graph{
 		~Graph( ) { }
 		
 		// Add a vertex prior to any edges
-		void add_vertex( const T& cityData, const T& stateData, unsigned int ap){
-
-			//COUT << "Adding vertex: " << cityData << " " << stateData << " " << ap << ENDL;
+		void add_vertex( const T& cityData, const T& stateData, float ap){
 			
 			Vertex<T> theVertex( cityData, stateData, ap );
 			vertices.push_back( theVertex );
 		}
 
-		void add_edge( unsigned int origin, unsigned int destin, int distance) {
+		void add_edge( unsigned int origin, unsigned int destin, float distance) {
 
 			if (origin < vertices.size() && destin < vertices.size() ) {
-				vertices[origin].add_edge (destin, distance);
+				vertices[origin].add_edge(destin, distance);
 			}
 		}
 
-		unsigned int get_ap_of_vertex(unsigned int index){
+		float get_ap_of_vertex(unsigned int index){
 
 			return this->vertices[index].get_ap_value();
 
@@ -77,7 +75,7 @@ struct Graph{
 			/* Initialize the Elements */
 			PRIORITY_QUEUE< unsigned int > the_PQ;
 			VECTOR< int > parents( vertices.size(), 0 );
-			VECTOR< unsigned int > distance( vertices.size(), 2147483647 );
+			VECTOR< float > distance( vertices.size(), 100000.0);
 			STACK< unsigned int > finalPath;
 
 			if( origin >= vertices.size() || destin >= vertices.size() || vertices.size() == 0 ){

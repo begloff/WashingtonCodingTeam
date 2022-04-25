@@ -18,14 +18,14 @@ class Vertex{
 		VECTOR< Edge > edges; 
 		T city; //Name of City
 		T state; //State of City
-        unsigned int attraction_points;
+        float attraction_points;
 		bool valid;			// Valid Vertex
 		
 	public:
 	
 		Vertex( ) : edges(), city( ), state (), attraction_points(),valid( true ) {}
 	
-		Vertex( const T& cityIn, const T& stateIn, unsigned int ap ) : edges(), city( cityIn ), state( stateIn ), attraction_points(ap), valid( true ) {}
+		Vertex( const T& cityIn, const T& stateIn, float ap ) : edges(), city( cityIn ), state( stateIn ), attraction_points(ap), valid( true ) {}
 		
 		~Vertex(){ }
 		
@@ -41,7 +41,7 @@ class Vertex{
 
 		}
 
-        unsigned int get_ap_value() const{
+        float get_ap_value() const{
             
             return attraction_points;
 			
@@ -53,7 +53,7 @@ class Vertex{
 		}
 		
 		// Adding an Edge to a Vertex
-		void add_edge( unsigned int destin, int weight ){
+		void add_edge( unsigned int destin, float weight ){
 			
 			// If not, put the edge on the back of the array
 			edges.push_back( Edge(destin, weight) );
