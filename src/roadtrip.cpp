@@ -21,7 +21,7 @@ void read_in_cities( Graph < STRING >& graph, STRING& cities_filepath, UNOR_MAP 
         city_state = strtok(NULL,",");
         attraction_points = strtok(NULL,",");
 
-        graph.add_vertex(city_name, city_state,atoi(attraction_points));
+        graph.add_vertex(city_name, city_state,STOF(attraction_points));
         city_order.insert({ city_name , i});
         city_number.insert({ i , city_name });
         i++;
@@ -42,7 +42,7 @@ void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP <
     char *first_city;
     char *second_city;
     char *distance_string;
-    int distance;
+    float distance;
 
     char buffer[BUFSIZ];
 
@@ -51,14 +51,14 @@ void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP <
         first_city = strtok(buffer, ",");
         second_city = strtok(NULL, ",");
         distance_string = strtok(NULL, ",");
-        distance = atoi(distance_string);
+        distance = STOF(distance_string);
         
         auto orig = city_order.find(first_city);
         auto destin = city_order.find(second_city);
 
         //gets the total number of attraction points between two nodes
-        unsigned int total_ap = graph.get_ap_of_vertex(orig->second) + graph.get_ap_of_vertex(destin->second);
-        unsigned int weight = (unsigned int) distance/total_ap;
+        float total_ap = graph.get_ap_of_vertex(orig->second) + graph.get_ap_of_vertex(destin->second);
+        float weight = distance/total_ap;
         
         //adds edge between two cities with weight as distance/total_ap
         graph.add_edge(orig->second, destin->second, weight);

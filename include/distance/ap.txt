@@ -1,50 +1,50 @@
-New York,NY,20
-Boston,MA,17
-Los Angeles,CA,20
-Dallas,TX,18
-Seattle,WA,15
-Chicago,IL,16
-Houston,TX,17
-Phoenix,AZ,15
-San Antonio,TX,16
-Philadelphia,PA,14
-San Diego,CA,17
-Austin,TX,17
-Jacksonville,FL,15
-Charlotte,NC,14
-Columbus,OH,12
-Indianapolis,IN,12
-San Francisco,CA,15
-Denver,CO,11
-Washington,DC,10
-Nashville,TN,18
-Oklahoma City,OK,10
-Las Vegas,NV,20
-Portland,OR,11
-Detroit,MI,8
-Memphis,TN,9
-Louisville,KY,8
-Milwaukee,WI,7
-Baltimore,MD,10
-Albuquerque,NM,7
-Tucson,AZ,7
-Atlanta,GA,10
-Sacramento,CA,7
-Kansas City,MO,6
-Colorado Springs,CO,6
-Raleigh,NC,6
-Miami,FL,14
-Omaha,NE,3
-Long Beach,CA,10
-Virginia Beach,VA,12
-Oakland,CA,5
-Minneapolis,MN,4
+New York,NY,66
+Boston,MA,22.7
+Los Angeles,CA,51
+Dallas,TX,27
+Seattle,WA,21.3
+Chicago,IL,57.6
+Houston,TX,22.3
+Phoenix,AZ,19
+San Antonio,TX,34
+Philadelphia,PA,46
+San Diego,CA,35.1
+Austin,TX,30
+Jacksonville,FL,22
+Charlotte,NC,29.6
+Columbus,OH,43
+Indianapolis,IN,29.2
+San Francisco,CA,26.2
+Denver,CO,17.7
+Washington,DC,23.8
+Nashville,TN,16.2
+Oklahoma City,OK,21.5
+Las Vegas,NV,42
+Portland,OR,8.8
+Detroit,MI,19
+Memphis,TN,10
+Louisville,KY,16.4
+Milwaukee,WI,23
+Baltimore,MD,26.2
+Albuquerque,NM,6.2
+Tucson,AZ,1
+Atlanta,GA,35
+Sacramento,CA,15.3
+Kansas City,MO,25.2
+Colorado Springs,CO,20.5
+Raleigh,NC,13
+Miami,FL,24.2
+Omaha,NE,13.1
+Long Beach,CA,6
+Virginia Beach,VA,7.1
+Oakland,CA,3.7
+Minneapolis,MN,34.5
 Tampa,FL,15
-Tulsa,OK,3
-Buffalo,NY,2
-Cleveland,OH,3
-Wichita,KS,1
-New Orleans,LA,17
-Myrtle Beach,SC,5
-Charleston,SC,10
-Des Moines,IA,1
+Tulsa,OK,9
+Buffalo,NY,16
+Cleveland,OH,13.8
+Wichita,KS,6
+New Orleans,LA,18.5
+Myrtle Beach,SC,19
+Charleston,SC,7.3
+Des Moines,IA,13.7
