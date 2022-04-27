@@ -58,32 +58,32 @@ void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP <
 
         //gets the total number of attraction points between two nodes
         float total_ap = graph.get_ap_of_vertex(orig->second);
-        float weight = distance + total_ap;
+        float weight = distance / total_ap;
 
         //Penalize longer distances: 200 < 500 < 1000 < 1500 < 2000 < 2500
 
         if( distance > 200 && distance < 500 ){
-            weight += 50;
+            weight += 10;
         }
 
         if( distance > 500 && distance < 1000 ){
-            weight += 100;
+            weight += 25;
         }
 
         if( distance > 1000 && distance < 1500 ){
-            weight += 500;
+            weight += 50;
         }
 
         if( distance > 1500 && distance < 2000 ){
-            weight += 700;
+            weight += 100;
         }
 
         if( distance > 2000 && distance < 2500 ){
-            weight += 900;
+            weight += 300;
         }
 
         if( distance > 2500 ){
-            weight += 1100;
+            weight += 500;
         }        
         
         //adds edge between two cities with weight as distance/total_ap
