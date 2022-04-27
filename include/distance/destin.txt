@@ -56,20 +56,14 @@ Lexington, KY
 Newark, NJ
 Orlando, FL
 St Louis, MO
-Jersey City, NJ
-Greensboro, NC
-Lincoln, NE
 Toledo, OH
 Madison, WI
 South Bend, IN
 Boise, ID
-Spokane, WA
 Baton Rouge, LA
 Richmond, VA
-Montgomery, AL
 Birmingham, AL
 Saint Paul, MN
-Manchester, NH
 Providence, RI
 Wilmington, DE
 Bridgeport, CT
@@ -87,4 +81,5 @@ Tacoma, WA
 Pittsburgh, PA
 Fort Lauderdale, FL
 Durham, NC
-Aurora, CO
+San Jose, CA
+Arlington, TX

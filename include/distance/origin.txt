@@ -48,3 +48,38 @@ New Orleans, LA
 Myrtle Beach, SC
 Charleston, SC
 Des Moines, IA
+Rochester, NY
+El Paso, TX
+Bakersfield, CA
+Anaheim, CA
+Lexington, KY
+Newark, NJ
+Orlando, FL
+St Louis, MO
+Toledo, OH
+Madison, WI
+South Bend, IN
+Boise, ID
+Baton Rouge, LA
+Richmond, VA
+Birmingham, AL
+Saint Paul, MN
+Providence, RI
+Wilmington, DE
+Bridgeport, CT
+Morgantown, WV
+Jackson, MS
+Ann Arbor, MI
+Topeka, KS
+Sioux Falls, SD
+Fargo, ND
+Billings, MT
+Cheyenne, WY
+Salt Lake City, UT
+Little Rock, AR
+Tacoma, WA
+Pittsburgh, PA
+Fort Lauderdale, FL
+Durham, NC
+San Jose, CA
+Arlington, TX

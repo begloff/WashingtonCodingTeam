@@ -36,5 +36,8 @@ int main(){
 
     print_order(finalPath,city_number,origin_city,destin_city);
 
+    //Next step account for total distance traveled
+    
+
     return 0;
 }

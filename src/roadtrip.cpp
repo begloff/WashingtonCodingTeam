@@ -62,28 +62,32 @@ void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP <
 
         //Penalize longer distances: 200 < 500 < 1000 < 1500 < 2000 < 2500
 
+        if( distance < 200 ){ //Incentivize short distance travel to cities
+            weight = weight/3;
+        }
+
         if( distance > 200 && distance < 500 ){
-            weight += 10;
+            weight = weight/2;
         }
 
         if( distance > 500 && distance < 1000 ){
-            weight += 25;
+            weight = weight * (3/2) ;
         }
 
         if( distance > 1000 && distance < 1500 ){
-            weight += 50;
+            weight += 5;
         }
 
         if( distance > 1500 && distance < 2000 ){
-            weight += 100;
+            weight += 40;
         }
 
         if( distance > 2000 && distance < 2500 ){
-            weight += 300;
+            weight += 50;
         }
 
         if( distance > 2500 ){
-            weight += 500;
+            weight += 100;
         }        
         
         //adds edge between two cities with weight as distance/total_ap

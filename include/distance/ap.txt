@@ -48,3 +48,38 @@ New Orleans,LA,18.5
 Myrtle Beach,SC,19
 Charleston,SC,7.3
 Des Moines,IA,13.7
+Rochester,NY,2.7
+El Paso,TX,2.3
+Bakersfield,CA,4.2
+Anaheim,CA,25
+Lexington,KY,2.8
+Newark,NJ,18
+Orlando,FL,75
+St Louis,MO,25
+Toledo,OH,1
+Madison,WI,2.4
+South Bend,IN,2
+Boise,ID,1.4
+Baton Rouge,LA,11.3
+Richmond,VA,7.7
+Birmingham,AL,3.4
+Saint Paul,MN,7
+Providence,RI,5.9
+Wilmington,DE,2.7
+Bridgeport,CT,1
+Morgantown,WV,2.6
+Jackson,MS,1
+Ann Arbor,MI,0.5
+Topeka,KS,1
+Sioux Falls,SD,0.84
+Fargo,ND,0.76
+Billings,MT,2
+Cheyenne,WY,1.1
+Salt Lake City,UT,5.7
+Little Rock,AR,6.4
+Tacoma,WA,3.3
+Pittsburgh,PA,12.6
+Fort Lauderdale,FL,13
+Durham,NC,12.2
+San Jose,CA,6.3
+Arlington,TX,14
