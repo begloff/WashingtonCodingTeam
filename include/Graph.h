@@ -39,10 +39,10 @@ struct Graph{
 			vertices.push_back( theVertex );
 		}
 
-		void add_edge( unsigned int origin, unsigned int destin, float distance) {
+		void add_edge( unsigned int origin, unsigned int destin, float weight, float distance) {
 
 			if (origin < vertices.size() && destin < vertices.size() ) {
-				vertices[origin].add_edge(destin, distance);
+				vertices[origin].add_edge(destin, weight, distance);
 			}
 		}
 
@@ -50,6 +50,11 @@ struct Graph{
 
 			return this->vertices[index].get_ap_value();
 
+		}
+
+		float return_dist_edge( unsigned int origin, unsigned int destin ){
+
+			return this->vertices[origin].get_edge(destin).dist;
 		}
 
 
@@ -69,14 +74,14 @@ struct Graph{
 		}
 
 		// Dijkstra's Algorithm
-		STACK < unsigned int > Dijkstra( unsigned int origin, unsigned int destin ){
+		VECTOR < unsigned int > Dijkstra( unsigned int origin, unsigned int destin ){
 			
 			
 			/* Initialize the Elements */
 			PRIORITY_QUEUE< unsigned int > the_PQ;
 			VECTOR< int > parents( vertices.size(), 0 );
 			VECTOR< float > distance( vertices.size(), 100000.0);
-			STACK< unsigned int > finalPath;
+			VECTOR< unsigned int > finalPath;
 
 			if( origin >= vertices.size() || destin >= vertices.size() || vertices.size() == 0 ){
 				
@@ -136,11 +141,11 @@ struct Graph{
 			if( found ){
 				
 				unsigned int sentinel = destin;	
-				finalPath.push( sentinel );		// Push the desination onto the stack
+				finalPath.push_back( sentinel );		// Push the desination onto the stack
 				
 				while( parents[sentinel] != -1 ){
 					
-					finalPath.push( parents[sentinel] );	// Push the parent onto the stack
+					finalPath.push_back( parents[sentinel] );	// Push the parent onto the stack
 					sentinel = parents[sentinel];			// Update the sentinel
 					
 				}

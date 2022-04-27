@@ -5,13 +5,14 @@
 struct Edge{
 	
 	unsigned int destin;
-	float weight;			
+	float weight;
+	float dist;			
 
 	// Default Constructor
-	Edge() : destin(), weight() {}
+	Edge() : destin(), weight(), dist() {}
 
 	// Overloaded Constructor
-	Edge( unsigned int dest, float weightIn) : destin(dest), weight(weightIn) {}
+	Edge( unsigned int dest, float weightIn, float distIn) : destin(dest), weight(weightIn), dist(distIn){}
 	
 	// Overloaded == operator
 	bool operator==( const Edge& rhs ) const{

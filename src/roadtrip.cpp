@@ -91,28 +91,71 @@ void connect_cities( Graph < STRING >& graph, STRING& edges_filepath, UNOR_MAP <
         }        
         
         //adds edge between two cities with weight as distance/total_ap
-        graph.add_edge(orig->second, destin->second, weight);
+        graph.add_edge(orig->second, destin->second, weight, distance);
 
     }
 
     return;
 }
 
-void print_order( STACK < unsigned int > finalPath, UNOR_MAP < int, STRING > city_number, STRING origin_city, STRING destin_city ){
+void print_order( VECTOR< unsigned int > finalPath, UNOR_MAP < int, STRING > city_number, STRING origin_city, STRING destin_city ){
 
+    
+    COUT << STRING(65,'=') << ENDL;
     COUT << "The optimal roadtrip from " << origin_city << " to " << destin_city << " is: " << ENDL;
 
-    while( !finalPath.empty() ){
 
-        auto current_city = city_number.find( finalPath.top() );
+    for( long unsigned int i = finalPath.size(); i > 0 ; i-- ){
 
-        if( finalPath.size() != 1 ){
+        auto current_city = city_number.find( finalPath[i-1] );
+
+        if( i != 1 ){
             COUT << current_city->second << " -> ";
         } else {
             COUT << current_city->second << ENDL;
         }
         
-        finalPath.pop();
     }
+
+}
+
+void print_stats( VECTOR< unsigned int > finalPath, Graph < STRING >& graph, STRING origin_city, STRING destin_city ){
+
+    COUT << STRING(65,'=') << ENDL;
+
+    COUT << "Total number of cities visited: " << finalPath.size() << ENDL;
+
+    COUT << STRING(65,'=') << ENDL;
+
+    float short_line_distance = 0, traveled_distance = 0;
+    unsigned int sz_of_path = (unsigned int) finalPath.size() - 1;
+
+    unsigned int origin, destin;
+
+    origin = finalPath[sz_of_path];
+    if( finalPath[0] > origin ) destin = finalPath[0] - 1;
+    else destin = finalPath[0];
+
+    short_line_distance = graph.return_dist_edge( origin, destin );
+
+    //Find the total number of miles traveled --> search edges for length between nodes
+    for( unsigned int i = (unsigned int) finalPath.size() - 1; i > 0 ; i-- ){
+
+        //Find the milage between each node: example, size 4: 3->2 2->1 1->0
+        origin = finalPath[i];
+        if( finalPath[i-1] > origin ) destin = finalPath[i-1] - 1;
+        else destin = finalPath[i-1];
+
+        //Takes the distance of said edge and adds to a running total
+        traveled_distance += graph.return_dist_edge( origin, destin );
+
+    }
+
+    COUT << "The straight path from " << origin_city << " to " << destin_city << " is " << short_line_distance << " miles" << ENDL << ENDL;
+    COUT << "The suggested roadtrip from " << origin_city << " to " << destin_city << " is " << traveled_distance << " miles" << ENDL << ENDL;
+
+    COUT << "The suggested roadtrip visits " << finalPath.size() - 2 << " more cities, traveling " << traveled_distance - short_line_distance << " more miles" << ENDL; 
+
+    COUT << STRING(65,'=') << ENDL;
 
 }

@@ -7,7 +7,7 @@ int main(){
 
     //Goal 1 work on reading in cities and making them vertices
     Graph< STRING > graph;
-    STACK < unsigned int > finalPath;
+    VECTOR < unsigned int > finalPath;
 
     STRING cities_filepath = "include/distance/ap.txt"; //Filepath that corresponds to each city and attraction points
     STRING edges_filepath = "include/distance/input.txt"; //Filepath that contains all distances between cities
@@ -37,6 +37,7 @@ int main(){
     print_order(finalPath,city_number,origin_city,destin_city);
 
     //Next step account for total distance traveled
+    print_stats(finalPath,graph,origin_city,destin_city);
     
 
     return 0;
