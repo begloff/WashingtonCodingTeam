@@ -1,3 +1,15 @@
+/**********************************
+ * Group: Washington Coding Team
+ * Members: Benjamin Egloff, Will Truluck, Alex Potts, Steve Zhao
+ * Email: begloff@nd.edu
+ * File Name: final_proj.cpp
+ * Date Created: 4/27/2022
+ * File Contents: This file contains the Vertex class for CSE 20312 Final Project
+ **********************************/
+
+ /* Class based on Dr. Matthew Morrison's Vertex class found at: https://github.com/mmorri22/sp22-cse-20312/blob/main/Lec19_InClass/include/Vertex.h */
+
+
 #ifndef VERTEX_H
 #define VERTEX_H
 
@@ -20,36 +32,54 @@ class Vertex{
 		T state; //State of City
         float attraction_points;
 		bool valid;			// Valid Vertex
+		bool visited;
 		
 	public:
 	
-		Vertex( ) : edges(), city( ), state (), attraction_points(),valid( true ) {}
+		Vertex( ) : edges(), city( ), state (), attraction_points(),valid( true ), visited() {}
 	
-		Vertex( const T& cityIn, const T& stateIn, float ap ) : edges(), city( cityIn ), state( stateIn ), attraction_points(ap), valid( true ) {}
+		Vertex( const T& cityIn, const T& stateIn, float ap, bool visit ) : edges(), city( cityIn ), state( stateIn ), attraction_points(ap), valid( true ), visited(visit) {}
 		
 		~Vertex(){ }
 		
-		
+		//Gets the templated city name from vertex
 		T get_city_value() const{
 			
 			return city;
 		}
 
+		//Gets the templated state name from vertex
 		T get_state_value() const{
 
 			return state;
 
 		}
 
+		//Returns the visit bool of a given vertex
+		bool get_visit_status() const{
+
+			return visited;
+
+		}
+
+		//Gets the ap value from a given vertex
         float get_ap_value() const{
             
             return attraction_points;
 			
         }
 
+		//Sets the city name of a vertex
 		void set_vertex_value(const T& cityIn){
 			
 			city = cityIn;
+		}
+
+		//Sets the visit bool of a vertex
+		void set_visit_value( const bool visit_status){
+
+			visited = visit_status;
+
 		}
 		
 		// Adding an Edge to a Vertex
