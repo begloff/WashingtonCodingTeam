@@ -137,6 +137,13 @@ void print_order( VECTOR< unsigned int > finalPath, Graph < STRING >& graph, UNO
         
     }
 
+    COUT<<"Google map link for this trip:"<<ENDL;
+    COUT<<"https://www.google.com/maps/dir/"; 
+    for( long unsigned int i = finalPath.size(); i > 0 ; i-- ){
+        auto current_city = city_number.find( finalPath[i-1] );
+        COUT << current_city->second<<"/";
+    }
+    COUT<<ENDL;
 }
 
 void print_stats( VECTOR< unsigned int > finalPath, Graph < STRING >& graph, STRING origin_city, STRING destin_city ){
@@ -233,7 +240,6 @@ void print_order_outfile( OFSTREAM& output_file, VECTOR< unsigned int > finalPat
     output_file << STRING(150,'=') << ENDL;
     output_file << "The optimal roadtrip from " << origin_city << " to " << destin_city << " is: " << ENDL;
 
-
     for( long unsigned int i = finalPath.size(); i > 0 ; i-- ){
 
         auto current_city = city_number.find( finalPath[i-1] );
@@ -245,6 +251,16 @@ void print_order_outfile( OFSTREAM& output_file, VECTOR< unsigned int > finalPat
         }
         
     }
+    output_file<<"Google map link for this trip:"<<ENDL;
+    output_file<<"https://www.google.com/maps/dir/"; 
+    for( long unsigned int i = finalPath.size(); i > 0 ; i-- ){
+        auto current_city = city_number.find( finalPath[i-1] );
+        output_file << current_city->second<<"/";
+    }
+    output_file<<ENDL;
+
+
+
 
 }
 
