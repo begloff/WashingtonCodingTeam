@@ -8,6 +8,8 @@
 ======================================================================================================================================================
 The optimal roadtrip from Arlington to Wilmington is: 
 Arlington, TX -> Dallas, TX -> Oklahoma City, OK -> St Louis, MO -> Indianapolis, IN -> Columbus, OH -> Wilmington, DE
+Google map link for this trip:
+https://www.google.com/maps/dir/Arlington/Dallas/Oklahoma City/St Louis/Indianapolis/Columbus/Wilmington/
 ======================================================================================================================================================
 Total number of cities visited: 7
 ======================================================================================================================================================
@@ -25,6 +27,8 @@ The suggested roadtrip visits 5 more cities, traveling 151 more miles
 ======================================================================================================================================================
 The optimal roadtrip from Wilmington to Arlington is: 
 Wilmington, DE -> Philadelphia, PA -> New York, NY -> Chicago, IL -> Arlington, TX
+Google map link for this trip:
+https://www.google.com/maps/dir/Wilmington/Philadelphia/New York/Chicago/Arlington/
 ======================================================================================================================================================
 Total number of cities visited: 5
 ======================================================================================================================================================

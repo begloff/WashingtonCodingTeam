@@ -8,6 +8,8 @@
 ======================================================================================================================================================
 The optimal roadtrip from Seattle to Miami is: 
 Seattle, WA -> Sacramento, CA -> San Francisco, CA -> Los Angeles, CA -> San Antonio, TX -> Baton Rouge, LA -> New Orleans, LA -> Atlanta, GA -> Orlando, FL -> Miami, FL
+Google map link for this trip:
+https://www.google.com/maps/dir/Seattle/Sacramento/San Francisco/Los Angeles/San Antonio/Baton Rouge/New Orleans/Atlanta/Orlando/Miami/
 ======================================================================================================================================================
 Total number of cities visited: 10
 ======================================================================================================================================================
@@ -25,6 +27,8 @@ The suggested roadtrip visits 8 more cities, traveling 965 more miles
 ======================================================================================================================================================
 The optimal roadtrip from Miami to Seattle is: 
 Miami, FL -> Jacksonville, FL -> Charlotte, NC -> Columbus, OH -> Indianapolis, IN -> Chicago, IL -> Seattle, WA
+Google map link for this trip:
+https://www.google.com/maps/dir/Miami/Jacksonville/Charlotte/Columbus/Indianapolis/Chicago/Seattle/
 ======================================================================================================================================================
 Total number of cities visited: 7
 ======================================================================================================================================================

@@ -8,6 +8,8 @@
 ======================================================================================================================================================
 The optimal roadtrip from New York to Los Angeles is: 
 New York, NY -> Philadelphia, PA -> Columbus, OH -> St Louis, MO -> Oklahoma City, OK -> Dallas, TX -> Austin, TX -> San Antonio, TX -> Phoenix, AZ -> Anaheim, CA -> Los Angeles, CA
+Google map link for this trip:
+https://www.google.com/maps/dir/New York/Philadelphia/Columbus/St Louis/Oklahoma City/Dallas/Austin/San Antonio/Phoenix/Anaheim/Los Angeles/
 ======================================================================================================================================================
 Total number of cities visited: 11
 ======================================================================================================================================================
@@ -25,6 +27,8 @@ The suggested roadtrip visits 9 more cities, traveling 539 more miles
 ======================================================================================================================================================
 The optimal roadtrip from Los Angeles to New York is: 
 Los Angeles, CA -> Las Vegas, NV -> Kansas City, MO -> Indianapolis, IN -> Chicago, IL -> Newark, NJ -> New York, NY
+Google map link for this trip:
+https://www.google.com/maps/dir/Los Angeles/Las Vegas/Kansas City/Indianapolis/Chicago/Newark/New York/
 ======================================================================================================================================================
 Total number of cities visited: 7
 ======================================================================================================================================================

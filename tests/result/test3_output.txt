@@ -8,6 +8,8 @@
 ======================================================================================================================================================
 The optimal roadtrip from Boston to Dallas is: 
 Boston, MA -> New York, NY -> Philadelphia, PA -> Columbus, OH -> St Louis, MO -> Oklahoma City, OK -> Dallas, TX
+Google map link for this trip:
+https://www.google.com/maps/dir/Boston/New York/Philadelphia/Columbus/St Louis/Oklahoma City/Dallas/
 ======================================================================================================================================================
 Total number of cities visited: 7
 ======================================================================================================================================================
@@ -25,6 +27,8 @@ The suggested roadtrip visits 5 more cities, traveling 136 more miles
 ======================================================================================================================================================
 The optimal roadtrip from Dallas to Boston is: 
 Dallas, TX -> Baton Rouge, LA -> New Orleans, LA -> Atlanta, GA -> Charlotte, NC -> Washington, DC -> Baltimore, MD -> Boston, MA
+Google map link for this trip:
+https://www.google.com/maps/dir/Dallas/Baton Rouge/New Orleans/Atlanta/Charlotte/Washington/Baltimore/Boston/
 ======================================================================================================================================================
 Total number of cities visited: 8
 ======================================================================================================================================================

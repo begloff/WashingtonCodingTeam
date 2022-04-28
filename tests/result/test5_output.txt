@@ -8,6 +8,8 @@
 ======================================================================================================================================================
 The optimal roadtrip from Buffalo to Orlando is: 
 Buffalo, NY -> Cleveland, OH -> Columbus, OH -> Charlotte, NC -> Jacksonville, FL -> Orlando, FL
+Google map link for this trip:
+https://www.google.com/maps/dir/Buffalo/Cleveland/Columbus/Charlotte/Jacksonville/Orlando/
 ======================================================================================================================================================
 Total number of cities visited: 6
 ======================================================================================================================================================
@@ -25,6 +27,8 @@ The suggested roadtrip visits 4 more cities, traveling 101 more miles
 ======================================================================================================================================================
 The optimal roadtrip from Orlando to Buffalo is: 
 Orlando, FL -> Philadelphia, PA -> New York, NY -> Buffalo, NY
+Google map link for this trip:
+https://www.google.com/maps/dir/Orlando/Philadelphia/New York/Buffalo/
 ======================================================================================================================================================
 Total number of cities visited: 4
 ======================================================================================================================================================

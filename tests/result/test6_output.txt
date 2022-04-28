@@ -8,6 +8,8 @@
 ======================================================================================================================================================
 The optimal roadtrip from Seattle to San Diego is: 
 Seattle, WA -> Sacramento, CA -> San Francisco, CA -> Los Angeles, CA -> San Diego, CA
+Google map link for this trip:
+https://www.google.com/maps/dir/Seattle/Sacramento/San Francisco/Los Angeles/San Diego/
 ======================================================================================================================================================
 Total number of cities visited: 5
 ======================================================================================================================================================
@@ -25,6 +27,8 @@ The suggested roadtrip visits 3 more cities, traveling 85 more miles
 ======================================================================================================================================================
 The optimal roadtrip from San Diego to Seattle is: 
 San Diego, CA -> Las Vegas, NV -> Portland, OR -> Seattle, WA
+Google map link for this trip:
+https://www.google.com/maps/dir/San Diego/Las Vegas/Portland/Seattle/
 ======================================================================================================================================================
 Total number of cities visited: 4
 ======================================================================================================================================================
